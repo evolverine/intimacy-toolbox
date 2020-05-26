@@ -1,5 +1,9 @@
-### About the pledge
-
+---
+layout: page
+title: About the intimacy toolbox and pledge 
+permalink: /about
+comments: false
+---
 
 ## Objectives
 
