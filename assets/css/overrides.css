@@ -1,3 +1,9 @@
+.spoiler {
+    color: whitesmoke;
+    opacity: 0.7;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+}
+
 .spoiler:after {
-    content: 'Click to reveal';
+    content: '';
 }
