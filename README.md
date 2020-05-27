@@ -30,11 +30,11 @@ comments: false
 
 *   **responding with gratitude** when others point to information I didn't know, and being open to changing my mind when faced with better knowledge.
 
-*   **being open and gentle in discussions** about "what scientists currently know", as I know that's a very fluid arena; or about whether the relevant institutions have recommended "good enough" measures. I recognize that's not easy to ascertain, even for those with extensive knowledge and experience.  
+*   **being open and gentle in discussions** <span class="spoiler">about "what scientists currently know", as I know that's a very fluid arena; or about whether the relevant institutions have recommended "good enough" measures. I recognize that's not easy to ascertain, even for those with extensive knowledge and experience.</span>
 
 *   **being thorough in verifying the sources of the information** I pass onto others, and, in particular, by not spreading information that I have not received from visible and trusted sources.
 
-*   **deciding for myself which social behaviours feel reasonable and acceptable from and with others**, given my needs, risk perception, ethics, and other relevant factors. Things like physical touch, gatherings, measures at work, etc. Questions like what information I'd like to know before engaging in various behaviours, my own privacy needs, etc.
+*   **deciding for myself which social behaviours feel reasonable and acceptable from and with others**, given my needs, risk perception, ethics, and other relevant factors. <span class="spoiler">Things like physical touch, gatherings, measures at work, etc. Questions like what information I'd like to know before engaging in various behaviours, my own privacy needs, etc.</span>
 
 *   **avoiding initiating hugs, kisses, handshakes, or other close contact greetings with people** unless I know their limits and risk management desires.
 
@@ -44,7 +44,7 @@ comments: false
 
 *   **refraining from pressuring** myself and others into changing.
 
-*   compensating the isolation and disregard that some in my network are likely to experience, by **connecting and offering to help with what I can**. From calls to (perhaps physically-distant) walks, to help with shopping, to lending or gifting resources, to setting up book clubs, the sky is the limit. In particular,  
+*   compensating the isolation and disregard that some in my network are likely to experience, by **connecting and offering to help with what I can**. <span class="spoiler">From calls to (perhaps physically-distant) walks, to help with shopping, to lending or gifting resources, to setting up book clubs, the sky is the limit. </span>In particular,  
 
 *   **being proactive to creatively discover mutually satisfying activities**, especially with those at higher risk, or those with more limits and limitations to their freedom.
 
