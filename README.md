@@ -27,7 +27,7 @@ comments: false
 
 
 
-*   learning — and regularly reviewing the quickly evolving information — about COVID-19 and the recommended measures in my area. About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.  
+*   **learning** — and regularly reviewing the quickly evolving information — <a href="#" class="tooltip">**about COVID-19 and the recommended measures in my area**</a>. About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.  
 
 *   responding with gratitude when others point to information I didn't know, and being open to changing my mind when faced with better knowledge  
 
