@@ -1,3 +1,10 @@
+---
+layout: page
+title: Intimacy and connection pledge for times of COVID-19
+permalink: /
+comments: false
+---
+
 ## Because I can see and acknowledge that ...  
 
 
