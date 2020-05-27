@@ -4,5 +4,5 @@ jQuery(document).ready(function($) {
     $(this).removeClass('spoiler');
  });
 
- $(document).addClass("overridden")
+ $(document.body).addClass("overridden")
 }
