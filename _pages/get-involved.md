@@ -9,7 +9,7 @@ comments: false
 
 *   By [suggesting what you think can be improved](https://github.com/evolverine/intimacy-toolbox/issues), regarding both content and structure.  
 
-*   By [suggesting links](https://github.com/evolverine/intimacy-toolbox/issues) (to articles, Wikipedia pages, news items, etc.) that illustrate and go deeper into the points made in [the pledge]({% post_url pledge %}) and elsewhere.
+*   By [suggesting links](https://github.com/evolverine/intimacy-toolbox/issues) (to articles, Wikipedia pages, news items, etc.) that illustrate and go deeper into the points made in [the pledge]({% link _pages/pledge.md %}) and elsewhere.
 
 *   By [offering your help with translating the pledge](https://github.com/evolverine/intimacy-toolbox/issues/1) in a language you are fluent in.
 
