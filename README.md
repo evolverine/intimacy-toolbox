@@ -12,7 +12,7 @@ Welcome. The page you're looking at is the tentative, and ever-evolving response
 # Pledge
 
 
-I call it a pledge, but maybe "statement of intention" or even "conversation starter" can define it better. Read it [here]({% link _pages/pledge.md %}).
+I call it the pledge, but maybe "statement of intention" or even "conversation starter" can define it better. It's meant to help us get on the same page, which these days is invaluable. <a class="btn" href="{% link _pages/pledge.md %}">Read the pledge</a>
     
 
 # Other resources
