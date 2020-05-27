@@ -1,4 +1,8 @@
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
 title: Toolbox for intimacy and communication in times of COVID-19
-baseurl: '/intimacy-toolbox'
+baseurl: /intimacy-toolbox
+google_analytics: UA-113326958-1
+include: ["_pages"]
+email: 2a5464d3@opayq.com
+lazyimages: "enabled"
