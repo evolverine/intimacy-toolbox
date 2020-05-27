@@ -8,7 +8,7 @@ comments: false
 ## Pledge
 
 
-Read the pledge [here]({% post_url pledge %}).
+Read the pledge [here](pledge).
     
 
 ## Having difficult conversations
