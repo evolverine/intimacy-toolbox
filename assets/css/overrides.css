@@ -7,3 +7,7 @@
 .spoiler:after {
     content: '';
 }
+
+.posttitle {
+    padding-bottom: 50px;
+}
