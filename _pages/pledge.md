@@ -5,7 +5,7 @@ permalink: /pledge
 comments: false
 ---
 
-## Because I can see and acknowledge that ...  
+# Because I can see and acknowledge that ...  
 
 
 *   [**I am are more connected to strangers than it may appear**](https://youtu.be/X0mHf3oSUdU), and that my behaviours affect people far removed from my immediate surroundings; In particular, in these times,
@@ -25,7 +25,7 @@ comments: false
 *   **Perceptions of risk are important**. While it's undoubtedly useful to allow the best knowledge I can obtain to influence my risk perception, I can never know all the factors and values that entered another's assessment of risk
     
 
-## I want to do my best by others by ...  
+# I want to do my best by others by ...  
 
 
 *   **learning** — and regularly reviewing the quickly evolving information — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.</span>
@@ -58,7 +58,7 @@ comments: false
 
 *   **communicating to my recent and future contacts when someone I've been in contact with has developed symptoms or engaged in high risk behaviour**, as soon I am made aware, all while doing my best to ask about and respect the privacy needs of all those involved  
 
-## So that together we may  
+# ...so that together we may  
 
 *   **enjoy each other's company** with less apprehension  
 
