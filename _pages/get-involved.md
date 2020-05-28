@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the intimacy toolbox and pledge 
+title: Get involved!
 permalink: /get-involved
 comments: false
 ---
