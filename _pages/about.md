@@ -23,7 +23,7 @@ comments: false
 
 ### Why "COCO"?
 
-"Connection in times of COVID-19"
+"Connection and communication in times of COVID-19"
 
 # About the resources
 
