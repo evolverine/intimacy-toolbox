@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other resources
+title: Resources
 permalink: /resources
 comments: false
 ---
@@ -23,9 +23,9 @@ comments: false
 ## Mental health
 
 * Sam Dylan Finch, [10 Ways to ‘Reach Out’ When You’re Struggling With Your Mental Health](https://letsqueerthingsup.com/2018/03/03/10-ways-to-reach-out-when-youre-struggling-with-your-mental-health/)
-* kylarosesims, [When Your Partner Has Anxiety: A Meltdown Guide | The Meltdown Guide](https://kylarosesims.wordpress.com/2018/09/01/when-your-partner-has-anxiety-a-meltdown-guide/)
+* kylarosesims, [When Your Partner Has Anxiety. A Meltdown Guide](https://kylarosesims.wordpress.com/2018/09/01/when-your-partner-has-anxiety-a-meltdown-guide/)
 
-## Calling in, calling out
+## Calling in, calling out, saying sorry
 
 * Cliff Pervocracy, [Just one ally.](https://pervocracy.blogspot.com/2012/07/just-one-ally.html)
 * Ngọc Loan Trần, [Calling IN: A Less Disposable Way of Holding Each Other Accountable](https://www.bgdblog.org/2013/12/calling-less-disposable-way-holding-accountable/)
@@ -46,4 +46,7 @@ comments: false
 
 ## Practical information about COVID-19
 
-"Connection in times of COVID-19"
+* WHO, [Coronavirus](https://www.who.int/health-topics/coronavirus)
+* U. Minnesota Center for Infectious Disease Reseach and Policy, [COVID-19 Resource Center](https://www.cidrap.umn.edu/covid-19)
+* NHS, [COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+* Financial Times, [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)

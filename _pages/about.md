@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-## About the COCO pledge
+# About the COCO pledge
 
 ### My hope in writing it was that the following dialogue might be possible:
 
@@ -25,6 +25,6 @@ comments: false
 
 "Connection in times of COVID-19"
 
-## About the resources
+# About the resources
 
-I realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want to live in can be built right now, one interaction at a time.
+I realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time.
