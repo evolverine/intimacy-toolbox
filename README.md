@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intimacy and connection toolbox in times of COVID-19
+title: The COCO Toolbox | Intimacy and connection tools in times of COVID-19
 permalink: /
 comments: false
 ---
