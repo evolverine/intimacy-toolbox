@@ -32,6 +32,10 @@ comments: false
 * Franchesca Ramsey, [How to Apologize When You Get Called Out](https://everydayfeminism.com/2013/11/how-to-apologize/)
 * Nora Samaran, [Own, Apologize, Repair: Coming Back to Integrity](https://norasamaran.com/2016/02/10/variations-on-not-all-men/)
 
+## Privilege
+
+* Parul Sehgal, [How ‘Privilege’ Became a Provocation](https://www.nytimes.com/2015/07/19/magazine/how-privilege-became-a-provocation.html)
+
 ## Care and loneliness
 
 * Caleb Luna, [Romantic Love is Killing Us: Who Takes Care of Us When We Are Single?](https://thebodyisnotanapology.com/magazine/romantic-love-is-killing-us/)
@@ -40,6 +44,7 @@ comments: false
 
 ## Emotions
 
+* Scott Barry Kaufman, [One Skeptical Scientist's Mindfulness Journey](https://blogs.scientificamerican.com/beautiful-minds/my-mindfulness-journey/)
 * Rick Hanson, [How to Hardwire Resilience into Your Brain](https://greatergood.berkeley.edu/article/item/how_to_hardwire_resilience_into_your_brain)
 * Stacey Kennelly, [10 Steps to Savoring the Good Things in Life](https://greatergood.berkeley.edu/article/item/10_steps_to_savoring_the_good_things_in_life)
 * Meg-John Barker , [Other People’s Feelings](https://www.rewriting-the-rules.com/2013/07/16/other-peoples-feelings/)
