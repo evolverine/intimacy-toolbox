@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About the intimacy toolbox and pledge 
-permalink: /get-involved
+title: About the pledge
+permalink: /about
 comments: false
 ---
 
-# How you can help  
+## My hope in writing it was that the following dialogue might be possible:
 
-*   By [suggesting what you think can be improved](https://github.com/evolverine/intimacy-toolbox/issues), regarding both content and structure.  
+"So, now that we can, how would you like intimacy to work between us again?"
+"I've given it some thought, but I don't have all the answers, of course; I feel it's all really complicated, and I very much want to hear your perspective on it, too. I think I might not know where to start otherwise, but I read this thing last night called the Coco Pledge, and it's giving me some ideas."
+"The Coco Pledge?..."
+"Yeah, it's... I'd say it's a bunch of values and assumptions around intimacy in times of COVID; it won't give us the magic formula, but I think it can start a good conversation, perhaps if we go through what we like and don't like about it, and see where that takes us."
+"Sounds good. Shall I read it now?"
+"Yeah, it's not super long."
 
-*   By [suggesting links](https://github.com/evolverine/intimacy-toolbox/issues) (to articles, Wikipedia pages, news items, etc.) that illustrate and go deeper into the points made in [the pledge]({% link _pages/pledge.md %}) and elsewhere.
+## Why "COCO"?
 
-*   By [offering your help with translating the pledge](https://github.com/evolverine/intimacy-toolbox/issues/1) in a language you are fluent in.
-
-*   Through other ways that we can't anticipate 🙂️  
-
-Many thanks for your feedback!  
+"Connection in times of COVID-19"
