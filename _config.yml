@@ -1,7 +1,7 @@
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
-title: Toolbox for intimacy and communication in times of COVID-19
-baseurl: /intimacy-toolbox
+title: COCO toolbox for intimacy and communication in times of COVID-19
+baseurl: /coco-toolbox
 google_analytics: UA-113326958-1
 include: ["_pages", "assets"]
 email: 2a5464d3@opayq.com
