@@ -68,11 +68,5 @@ comments: false
 
 *   **prevent suffering** especially for those who are at a higher risk of various privations
 
-## Related reading  
-
-
-*   Evelin Dacker MD, [COVID Care](https://medium.com/@evelindacker/covid-care-e2ede67428d4)  
-
-*   Angela Lashbrook, [Is it Safe to "Quaranteam"](https://elemental.medium.com/is-it-safe-to-quaranteam-8b603392bd15)  
 
 \* Although here it refers to [COVID-19 symptoms](https://www.who.int/health-topics/coronavirus#tab=tab_3), this can apply to other infectious illnesses as well.
