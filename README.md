@@ -17,7 +17,4 @@ I call it a pledge, but maybe "statement of intention" or even "conversation sta
 
 
 # Other resources
-## Having difficult conversations
-
-* The Gottman Institute, [Dr. Gottman’s 3 Skills (and 1 Rule!) for Intimate Conversation](https://www.gottman.com/blog/dr-gottmans-3-skills-and-1-rule-for-intimate-conversation/)
-* The Gottman Institute, [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
+A collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them [here]({% link _pages/resources.md %})
