@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intimacy and connection pledge for times of COVID-19
+title: The COCO pledge v0.4
 permalink: /pledge
 comments: false
 ---
@@ -8,25 +8,27 @@ comments: false
 ## Because I can see and acknowledge that ...  
 
 
-*   [**I am are more connected to strangers than it may appear**](https://youtu.be/X0mHf3oSUdU), and that my behaviours affect people far removed from my immediate surroundings;  
+*   [**I am are more connected to strangers than it may appear**](https://youtu.be/X0mHf3oSUdU), and that my behaviours affect people far removed from my immediate surroundings; In particular, in these times,
+
+*   **My "private" choices of how and with whom to relate have a direct and immediate impact in the lives of all those I connect with**. For example, due to my behaviours, a friend I interact with might be perceived as higher risk by their own friends.
     
-*   **My knowledge isn't perfect**, and [I'm likely to exaggerate it;](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
+*   **My knowledge isn't perfect**, and [I'm likely to exaggerate it](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
 
-*   Our collective **knowledge about COVID-19 is evolving and changing rapidly;**  
+*   Our collective **knowledge about COVID-19 is evolving and changing rapidly**  
 
-*   **People are affected by the situation in different ways**, to different degrees;  
+*   **People are affected by the situation in different ways**, to different degrees
 
-*   Pre-existing inequalities and oppressions that affect those in our lives, along the lines of race, ethnicity, gender, disability, sexuality, education, sex, age, wealth, religion, political or ethical convictions, etc. might be compounded and magnified by the crisis we're traversing;  
+*   **Pre-existing inequalities and oppressions** that affect those in our lives, along the lines of race, ethnicity, gender, disability, sexuality, education, sex, age, wealth, religion, political or ethical convictions, etc. **might be compounded and magnified** by the crisis we are traversing
 
-*   **Perceptions of risk are important**. While it's useful to allow the best knowledge I can obtain to influence my subjective risk perception, I can never know all the factors and values that entered another's assessment of risk;  
-    
-*   **Unless I and others are careful, it can be easy to exclude those most at risk**. For example, those who are currently suffering from COVID-19 might struggle with multiple limitations and hardships, as well as those with a higher perceived risk, who might see some of their social support gravitate away from them.  
+*   **Unless I and others are careful, it can be easy to exclude those most at risk**. For example, those who are currently suffering from COVID-19 might struggle with multiple limitations and hardships, as well as those with a higher perceived risk, who might see some of their social support gravitate away from them
+
+*   **Perceptions of risk are important**. While it's undoubtedly useful to allow the best knowledge I can obtain to influence my risk perception, I can never know all the factors and values that entered another's assessment of risk
     
 
 ## I want to do my best by others by ...  
 
 
-*   **learning** — and regularly reviewing the quickly evolving information — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.</span>
+*   **learning** — and regularly reviewing the quickly evolving information — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.</span>
 
 *   **responding with gratitude** when others point to information I didn't know, and being open to changing my mind when faced with better knowledge.
 
