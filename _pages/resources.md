@@ -7,7 +7,9 @@ comments: false
 
 ## Other writings about relationships in times of COVID-19
 
-* Evelin Dacker MD, [COVID Care](https://medium.com/@evelindacker/covid-care-e2ede67428d4)  
+* Evelin Dacker MD, [COVID Care](https://medium.com/@evelindacker/covid-care-e2ede67428d4)
+* Gideon Lichfield, [A guide to negotiating a covid “bubble” with other people](https://www.technologyreview.com/2020/05/09/1001547/coronavirus-bubble-pod-quaranteam-social-distancing-negotiation/)
+* Libby Sinback, [Thinking About Expanding Your Polyamorous Quaranteam?](https://libbysinback.com/thinking-about-expanding-your-polyamorous-quaranteam/)
 * Angela Lashbrook, [Is it Safe to "Quaranteam"](https://elemental.medium.com/is-it-safe-to-quaranteam-8b603392bd15)  
 
 ## Having difficult conversations
