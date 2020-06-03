@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The COCO pledge v0.4
+title: The COCO pledge v0.5
 permalink: /pledge
 comments: false
 ---
@@ -28,7 +28,7 @@ comments: false
 # I want to do my best by others by ...  
 
 
-*   **learning** — and regularly reviewing the quickly evolving information — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, ways of transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.</span>
+*   **learning** — and regularly reviewing the quickly evolving information — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">About SARS-CoV-2 things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, means of transmission, the extent of asymptomatic transmission, etc. About my local context — the recommended safety measures at home, at work, while socializing, etc.</span>
 
 *   **responding with gratitude** when others point to information I didn't know, and being open to changing my mind when faced with better knowledge.
 
