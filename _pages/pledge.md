@@ -20,7 +20,7 @@ comments: false
 
 *   **Pre-existing inequalities and oppressions**, along the lines of race, ethnicity, gender, disability, sexuality, education, sex, age, wealth, religion, political or ethical convictions, etc. **might be compounded and magnified** by the crises we are traversing
 
-*   Unless I and others are careful, **it can be easy to exclude those most at risk**. <span class="spoiler">For example, those who are currently suffering from COVID-19 might struggle with multiple limitations and hardships, as well as those with a higher perceived risk, who might see some of their social support gravitate away from them.</span>
+*   **It can be easy to exclude those most at risk** <span class="spoiler">unless we actively prevent it. For example, those who are currently suffering from COVID-19 might struggle with multiple limitations and hardships, as well as those with a higher perceived risk, who might see some of their social support gravitate away from them.</span>
 
 *   **Perceptions of risk are important**. <span class="spoiler">While it's clearly useful to allow the best knowledge to influence my risk perception, I can never know all the factors and values that entered others' risk perceptions.</span>
     
