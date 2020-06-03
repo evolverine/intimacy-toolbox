@@ -5,7 +5,7 @@ permalink: /pledge
 comments: false
 ---
 
-<span class="text-small">What's [the story with this pledge]({{ site.baseurl }}{% link _pages/about.md %})?</span>
+(<span class="text-small spoiler">What's [the story with this pledge]({{ site.baseurl }}{% link _pages/about.md %})?</span>)
 
 # Because I acknowledge that ...  
 
