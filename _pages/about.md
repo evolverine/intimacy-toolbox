@@ -7,15 +7,21 @@ comments: false
 
 # About the COCO pledge
 
-### My hope in writing it was that the following dialogue might be possible:
+### My hope in writing it
 
-> "So, now that we can, how would you like intimacy to work between us again?"
+I was imagining this dialogue
 
->  "I've given it some thought, but I don't have all the answers, of course; I feel it's all really complicated, and I very much want to hear your perspective on it, too. I think I might not know where to start otherwise, but I read this thing last night called the Coco Pledge, and it's giving me some ideas."
+> "How do you want intimacy to work between us now?"
 
->  "The Coco Pledge?..."
+>  "I... I'm not exactly sure; it feels so complicated! I don't really know where to start..."
 
->  "Yeah, it's... I'd say it's a bunch of values and assumptions around intimacy in times of COVID; it won't give us the magic formula, but I think it can start a good conversation, perhaps if we go through what we like and don't like about it, and see where that takes us."
+and hoping it could sometimes continue this way
+
+> ..."but I read this thing last night called the Coco Pledge, and it's giving me some ideas."
+
+>  "The Coco Pledge?"
+
+>  "Yeah, it's... I'd say it's a bunch of values and assumptions around intimacy in times of COVID; it won't give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don't like about it, and see where that takes us?"
 
 >  "Sounds good. Shall I read it now?"
 
