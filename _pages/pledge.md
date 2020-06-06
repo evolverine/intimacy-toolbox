@@ -6,11 +6,9 @@ comments: false
 last_modified_at: 2020-06-06
 ---
 
-## Orientation
+(<span class="text-small">What's the story with this pledge? Read about it [here]({{ site.baseurl }}{% link _pages/about.md %}).</span>)
 
-<span class="text-small spoiler">What's [the story with this pledge]({{ site.baseurl }}{% link _pages/about.md %})?</span>
-
-# Because I acknowledge that 
+# Because I acknowledge that
 
 
 *   [**I am deeply connected to strangers**](https://youtu.be/X0mHf3oSUdU), so my behaviours affect those far removed. Also,
