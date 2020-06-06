@@ -6,7 +6,7 @@ comments: false
 last_modified_at: 2020-06-06
 ---
 
-(<span class="text-small">What's the story with this pledge? Read about it [here]({{ site.baseurl }}{% link _pages/about.md %}).</span>)
+(<span class="text-small">What's the story with this pledge? Read about it [here]({{ site.baseurl }}{% link _pages/about.md %}).</span> And for the text that's hard to read, just click on it and it will magically reveal itself!)
 
 # Because I acknowledge that
 
