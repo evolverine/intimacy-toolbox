@@ -57,3 +57,4 @@ comments: false
 * U. Minnesota Center for Infectious Disease Reseach and Policy, [COVID-19 Resource Center](https://www.cidrap.umn.edu/covid-19)
 * NHS, [COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 * Financial Times, [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
+* I've been compiling some of the basic [information about SARS-CoV-2 and COVID-19 in the form of an Anki flash card deck](https://github.com/evolverine/covid-19-anki-deck).
