@@ -6,7 +6,7 @@ comments: false
 last_modified_at: 2020-06-06
 ---
 
-<span class="small mark">What's the story with this pledge? Read about it [here]({{ "_pages/about.md" | relative_url }}). And for the text that's hard to read, just click on it and it will magically reveal itself!</span>
+<span class="small mark">What's the story with this pledge? Read about it [here]({% link _pages/about.md %}). And for the text that's hard to read, just click on it and it will magically reveal itself!</span>
 
 # Because I acknowledge that
 

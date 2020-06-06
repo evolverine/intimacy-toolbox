@@ -50,12 +50,12 @@ ga('send', 'pageview');
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li><a href="{{ '' | relative_url }}">Home</a></li>
-        <li><a href="{{ 'pledge' | relative_url }}">Pledge</a></li>
-        <li><a href="{{ site.baseurl }}/resources">Resources</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/get-involved">Get involved!</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <li><a href="{% link README.md %}">Home</a></li>
+        <li><a href="{% link _pages/pledge.md %}">Pledge</a></li>
+        <li><a href="{% link _pages/resources.md %}">Resources</a></li>
+        <li><a href="{% link _pages/about.md %}">About</a></li>
+        <li><a href="{% link _pages/get-involved.md %}">Get involved!</a></li>
+        <li><a href="{% link _pages/contact.md %}">Contact</a></li>       
     </ul>   
 </nav>
 
@@ -72,7 +72,7 @@ ga('send', 'pageview');
     <!-- Site Logo/Name
     ================================================== -->
    {% if site.logo %}
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <a class="navbar-brand" href="{% link README.md %}">
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
    {% endif %}
