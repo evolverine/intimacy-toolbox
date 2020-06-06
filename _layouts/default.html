@@ -10,13 +10,13 @@
 
     {% seo %}
         
-    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link href="{{ '/assets/css/prism.css' | relative_url }}" rel="stylesheet">
 
     <link href="{{ '/assets/css/theme.css' | relative_url }}" rel="stylesheet">
 
-    <link href="{{ site.baseurl }}/assets/css/overrides.css" rel="stylesheet">
+    <link href="{{ '/assets/css/overrides.css' | relative_url }}" rel="stylesheet">
 
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -50,8 +50,8 @@ ga('send', 'pageview');
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/pledge">Pledge</a></li>
+        <li><a href="{{ '' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/pledge' | relative_url }}">Pledge</a></li>
         <li><a href="{{ site.baseurl }}/resources">Resources</a></li>
         <li><a href="{{ site.baseurl }}/about">About</a></li>
         <li><a href="{{ site.baseurl }}/get-involved">Get involved!</a></li>
