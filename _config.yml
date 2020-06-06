@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
 title: COCO toolbox for intimacy and communication in times of COVID-19
