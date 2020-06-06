@@ -3,6 +3,7 @@ layout: page
 title: Resources
 permalink: /resources
 comments: false
+last_modified_at: 2020-06-06
 ---
 
 ## Other writings about relationships in times of COVID-19
