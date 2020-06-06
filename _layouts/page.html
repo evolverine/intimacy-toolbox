@@ -5,15 +5,14 @@ layout: default
 <div class="page-single">
     <div class="entry-header">       
         <h1 class="posttitle">{{ page.title }}</h1>        
+        <!-- Last updated -->
+		{% if page.last_modified_at %}
+		<div class="d-flex align-items-center mt-4">
+			Updated:&nbsp;<time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
+		</div>
+		{% endif %}
     </div>
 </div>
-
-<!-- Last updated -->
-{% if page.last_modified_at %}
-<div class="d-flex align-items-center mt-4">
-	Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
-</div>
-{% endif %}
 
 <!-- Featured Image -->
 {% include featured-image.html %}
