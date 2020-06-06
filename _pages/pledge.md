@@ -3,11 +3,14 @@ layout: page
 title: The COCO pledge v0.5
 permalink: /pledge
 comments: false
+last_modified_at: 2020-06-06
 ---
 
-(<span class="text-small spoiler">What's [the story with this pledge]({{ site.baseurl }}{% link _pages/about.md %})?</span>)
+## Orientation
 
-# Because I acknowledge that ...  
+<span class="text-small spoiler">What's [the story with this pledge]({{ site.baseurl }}{% link _pages/about.md %})?</span>
+
+# Because I acknowledge that 
 
 
 *   [**I am deeply connected to strangers**](https://youtu.be/X0mHf3oSUdU), so my behaviours affect those far removed. Also,
@@ -27,7 +30,7 @@ comments: false
 *   **Perceptions of risk are important**. <span class="spoiler">While it's clearly useful to allow the best knowledge to influence my risk perception, I can never know all the factors and values that entered others' risk perceptions.</span>
     
 
-# I want to do my best by others by ...  
+# I want to do my best by others by
 
 
 *   **learning** — and regularly updating my knowledge — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">SARS-CoV-2: things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, means of transmission, the extent of asymptomatic transmission, etc. My local context: the recommended safety measures at home, at work, while socializing, etc.</span>
@@ -60,7 +63,7 @@ comments: false
 
 *   **telling my recent and future contacts when someone I've been in contact with has developed symptoms or acted in risky ways**<span class="spoiler">, as soon as I am made aware, all while doing my best to ask about and respect the privacy needs of all those involved</span>
 
-# ...so that together we may  
+# ... so that together we may  
 
 *   **enjoy each other's company** with less fear
 
