@@ -2,8 +2,8 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "The COCO Toolbox | Connection and communication tools in times of COVID-19",
-    "body": "Hi!Welcome. The page you’re looking at is the tentative, and ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, but there can hopefully be space for learning, for getting clear about our values and some of our facts, and taking it from there with care and openness. If something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The COCO PledgeI call it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the COCO pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
+    "title": "The Undistancing Toolbox | Connection and communication tools in times of COVID-19",
+    "body": "Hi!Welcome. The page you’re looking at is the tentative, and ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, but there can hopefully be space for learning, for getting clear about our values and some of our facts, and taking it from there with care and openness. If something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The Undistancing PledgeI call it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the Undistancing pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
     }, {
     "id": 1,
     "url": "http://localhost:4000/undistance/about",
@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "http://localhost:4000/undistance/pledge",
     "title": "Promisiunea adistanțare v0.5",
-    "body": "Care-i povestea cu promisiunea asta? Citește aici. Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️ Pentru că observ și accept că Sunt profundament conectat cu necunoscuți. În consecință, comportamentul meu afectează oameni aparent separați de mine. Acest document este în proces de traducere, din versiunea sa în engleză. Ajută-ne să-l traducem cât mai curând! "
+    "body": "Care-i povestea cu promisiunea asta? Citește aici. Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️ Pentru că observ și accept că Sunt profundament conectat cu necunoscuți. În consecință, comportamentul meu afectează oameni aparent separați de mine. Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). Ajută-ne să-l traducem cât mai curând! "
     }, {
     "id": 6,
     "url": "http://localhost:4000/undistance/resources",
