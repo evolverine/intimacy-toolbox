@@ -3,6 +3,7 @@ layout: page
 title: About the toolbox
 permalink: /about
 comments: false
+lang: 'en'
 ---
 
 # About the COCO pledge

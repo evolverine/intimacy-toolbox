@@ -1,3 +1,4 @@
+name: COCO Toolbox
 destination: docs
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
@@ -7,3 +8,14 @@ google_analytics: UA-113326958-1
 include: ["_pages", "assets"]
 email: 2a5464d3@opayq.com
 lazyimages: "enabled"
+
+languages: ["en", "ro"]
+default_lang: "en"
+exclude_from_localization: ["assets", "_layouts", "docs"]
+parallel_localization: false
+include: ['_pages', '_posts']
+
+sass:
+    sourcemap: never
+
+plugins: [jekyll-polyglot]

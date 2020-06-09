@@ -42,7 +42,14 @@ ga('send', 'pageview');
 <!-- Begin Sidebar Navigation
 ================================================== -->
 
-<div class="sidebar">    
+<div class="sidebar">
+    <div class="langs-container">
+        <ul>
+        {% for tongue in site.languages %}
+            <li><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
 </div>   
 <div class="nav-icon">
     <div class="hamburger-bar"></div>
@@ -50,13 +57,13 @@ ga('send', 'pageview');
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li><a href="{% link README.md %}">Home</a></li>
-        <li><a href="{% link _pages/pledge.md %}">Pledge</a></li>
-        <li><a href="{% link _pages/resources.md %}">Resources</a></li>
-        <li><a href="{% link _pages/about.md %}">About</a></li>
-        <li><a href="{% link _pages/get-involved.md %}">Get involved!</a></li>
-        <li><a href="{% link _pages/contact.md %}">Contact</a></li>       
-    </ul>   
+        <li><a href="{{site.baseurl}}/">Home</a></li>
+        <li><a href="{{site.baseurl}}/pledge">Pledge</a></li>
+        <li><a href="{{site.baseurl}}/resources">Resources</a></li>
+        <li><a href="{{site.baseurl}}/about">About</a></li>
+        <li><a href="{{site.baseurl}}/get-involved">Get involved!</a></li>
+        <li><a href="{{site.baseurl}}/contact">Contact</a></li>       
+    </ul>
 </nav>
 
 {% include search-lunr.html %}

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: The COCO pledge v0.5
+title: Promisiunea COCO v0.5
 permalink: /pledge
 comments: false
 last_modified_at: 2020-06-06
-lang: en
+lang: ro
 ---
 
-<span class="small mark">What's the story with this pledge? Read about it [here]({{site.baseurl}}/about). And for the text that's hard to read, just click on it and it will magically reveal itself!</span>
+<span class="small mark">Care-i povestea cu promisiunea asta? Citește [aici]({{site.baseurl}}/about). Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️</span>
 
 # Because I acknowledge that
 

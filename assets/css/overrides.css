@@ -11,3 +11,12 @@
 .posttitle {
     padding-bottom: 50px;
 }
+
+.langs-container {
+	margin-top: 100px;
+}
+
+.langs-container ul {
+	list-style:none;
+	padding-left:30px;
+}
