@@ -11,7 +11,7 @@ I, [@evolverine](https://github.com/evolverine), have put together this toolbox 
 
 ## Reach out
 
-If you want to contact me about this toolbox, the preferred way is through [github issues](https://github.com/evolverine/intimacy-toolbox/issues). Or, for more privacy, you can reach me at 2a5464d3 at opayq.com.
+If you want to contact me about this toolbox, the preferred way is through [github issues](https://github.com/evolverine/undistance/issues). Or, for more privacy, you can reach me at 2a5464d3 at opayq.com.
 
 ## Support my work
 
