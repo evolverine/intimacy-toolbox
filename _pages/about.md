@@ -6,7 +6,7 @@ comments: false
 lang: 'en'
 ---
 
-# About the COCO pledge
+# About the undistancing pledge
 
 ### My hope in writing it
 
@@ -18,19 +18,15 @@ I was imagining this dialogue
 
 and hoping it could sometimes continue this way
 
-> ..."but I read this thing last night called the Coco Pledge, and it's giving me some ideas."
+> ..."but I read this thing last night called the Undistancing Pledge, and it's giving me some ideas."
 
->  "The Coco Pledge?"
+>  "The Undistancing Pledge?"
 
 >  "Yeah, it's... I'd say it's a bunch of values and assumptions around intimacy in times of COVID; it won't give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don't like about it, and see where that takes us?"
 
 >  "Sounds good. Shall I read it now?"
 
 >  "Yeah, it's not super long."
-
-### Why "COCO"?
-
-"Connection and communication in times of COVID-19"
 
 # About the resources
 

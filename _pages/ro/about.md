@@ -6,9 +6,9 @@ comments: false
 lang: 'ro'
 ---
 
-# Despre instrumentarul COCO
+# Despre instrumentarul a-distanțării
 
-### Ce speram când am scris promisiunea COCO
+### Ce speram când am scris promisiunea a-distanțării
 
 Îmi imaginam dialogul următor:
 
@@ -18,19 +18,15 @@ lang: 'ro'
 
 și speram că ar putea continua așa:
 
-> ..."dar azi-noapte am citit o chestie, îi zicea instrumetarul COCO, și măcar mi-a dat niște idei."
+> ..."dar azi-noapte am citit o chestie, îi zicea instrumetarul a-distanțării, și măcar mi-a dat niște idei."
 
->  "Instrumentarul COCO?"
+>  "Instrumentarul a-distanțării?"
 
->  "Da, e... Bine, piesa principală e o promisiune, care aș zice că e, pur și simplu, o colecție de valori și supoziții despre intimitate în vremuri de COVID; nu-i ca și cum ne va da formula magică, dar cred că ne poate ajuta să începem un dialog util. Ce-ai zice să-o luăm de-aici - să vedem ce ne place și ce nu ne place din promisiunea asta?"
+>  "Da, e... Bine, piesa principală e o promisiune, care aș zice că e, pur și simplu, o colecție de valori și supoziții despre intimitate în vremuri de COVID; nu-i ca și cum ne va da formula magică, dar cred că ne poate ajuta să începem un dialog. Ce-ai zice să vedem ce ne place și ce nu ne place din promisiunea asta?"
 
 >  "Bun, sună bine. Să-l citesc acum?"
 
->  "Aș zice că da, pentru că nu e prea lung."
-
-### Why "COCO"?
-
-"Connection and communication in times of COVID-19"
+>  "Da, pentru că nu e prea lung."
 
 # Despre resurse
 

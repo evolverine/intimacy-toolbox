@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The COCO pledge v0.5
+title: The Undistancing pledge v0.5
 permalink: /pledge
 comments: false
 last_modified_at: 2020-06-06
