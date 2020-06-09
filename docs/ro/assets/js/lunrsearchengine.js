@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "http://localhost:4000/undistance/pledge",
     "title": "Promisiunea adistanțare v0.5",
-    "body": "Care-i povestea cu promisiunea asta? Citește aici. Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️ Recunoscând că Sunt profundament conectat cu necunoscuți. În consecință, comportamentul meu afectează oameni aparent separați de mine. Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). [Ajută-ne să-l traducem] cât mai curând! "
+    "body": "Care-i povestea cu promisiunea asta? Citește aici. Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️ Recunoscând că Sunt profundament conectat cu necunoscuți. În consecință, comportamentul meu afectează oameni aparent separați de mine. Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). Ajută-ne să-l traducem cât mai curând! "
     }, {
     "id": 6,
     "url": "http://localhost:4000/undistance/resources",

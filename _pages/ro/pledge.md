@@ -14,4 +14,4 @@ lang: ro
 
 *   [**Sunt profundament conectat cu necunoscuți**](https://youtu.be/X0mHf3oSUdU). În consecință, comportamentul meu afectează oameni aparent separați de mine.
 
-<span class="mark">Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). <a class="btn btn-primary" href="https://github.com/evolverine/undistance/issues/1">[Ajută-ne să-l traducem]</a> cât mai curând!</span>
+<span class="mark">Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). <a class="btn btn-primary" href="https://github.com/evolverine/undistance/issues/1">Ajută-ne să-l traducem</a> cât mai curând!</span>
