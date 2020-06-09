@@ -9,7 +9,7 @@ include: ["_pages", "assets"]
 email: 2a5464d3@opayq.com
 lazyimages: "enabled"
 
-languages: ["en", "ro"]
+languages: ["en", "ro", "es", "ca"]
 default_lang: "en"
 exclude_from_localization: ["assets", "_layouts", "docs"]
 parallel_localization: false

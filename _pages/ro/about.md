@@ -3,7 +3,7 @@ layout: page
 title: Despre instrumentar
 permalink: /about
 comments: false
-lang: 'ro'
+lang: ro
 ---
 
 # Despre instrumentarul a-distanțării

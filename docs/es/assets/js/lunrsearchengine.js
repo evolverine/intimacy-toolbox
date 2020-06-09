@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/undistance/about",
-    "title": "Despre instrumentar",
-    "body": "Despre instrumentarul a-distanțăriiCe speram când am scris promisiunea a-distanțării: Îmi imaginam dialogul următor:  “Așadar, cum ți-ai dori să reluăm intimitatea între noi de-acum?”  “Nu… nu sunt sigur; pare așa de complicat totul, nu știu de unde să încep…” și speram că ar putea continua așa:  …“dar azi-noapte am citit o chestie, îi zicea instrumetarul a-distanțării, și măcar mi-a dat niște idei. ”  “Instrumentarul a-distanțării?”  “Da, e… Bine, piesa principală e o promisiune, care aș zice că e, pur și simplu, o colecție de valori și supoziții despre intimitate în vremuri de COVID; nu-i ca și cum ne va da formula magică, dar cred că ne poate ajuta să începem un dialog. Ce-ai zice să vedem ce ne place și ce nu ne place din promisiunea asta?”  “Bun, sună bine. Să-l citesc acum?”  “Da, pentru că nu e prea lung. ” Despre resurseMi-am dat seama că promisiunea, doar de capul ei, putea să fie chiar mai frustrantă decât utilă în anumite contexte. Presupune unele abilități și perspective în legătură cu teme precum comunicarea, grija pentru sine și alții, perspective politice asupra relațiilor, etc. Așa că am vrut să includ alte resurse care să poată adresa temele respective și care să ne apropie, în felul ăsta, de lumea pe care vrem s-o construim, o interacțiune după alta. "
+    "title": "About the toolbox",
+    "body": "About the undistancing pledgeMy hope in writing it: I was imagining this dialogue  “How do you want intimacy to work between us now?”  “I… I’m not exactly sure; it feels so complicated! I don’t really know where to start…” and hoping it could sometimes continue this way  …“but I read this thing last night called the Undistancing Pledge, and it’s giving me some ideas. ”  “The Undistancing Pledge?”  “Yeah, it’s… I’d say it’s a bunch of values and assumptions around intimacy in times of COVID; it won’t give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don’t like about it, and see where that takes us?”  “Sounds good. Shall I read it now?”  “Yeah, it’s not super long. ” About the resourcesI realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time. "
     }, {
     "id": 2,
     "url": "http://localhost:4000/undistance/contact",
@@ -27,8 +27,8 @@ var documents = [{
     }, {
     "id": 5,
     "url": "http://localhost:4000/undistance/pledge",
-    "title": "Promisiunea adistanțare v0.5",
-    "body": "Care-i povestea cu promisiunea asta? Citește aici. Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️ Recunoscând că Sunt profundament conectat cu necunoscuți. În consecință, comportamentul meu afectează oameni aparent separați de mine. Acest document este în proces de traducere, din versiunea sa în engleză (o poți citi dând click pe „en” în meniul din stânga). [Ajută-ne să-l traducem] cât mai curând! "
+    "title": "Promesa a-distanciamiento v0.5",
+    "body": "Sobre esta promesa puedes leer más aquí Porque reconozco que Estoy profundamente conectada con gente que no conozco. . Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,Este documento está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡[Contribuye a su traducción] para que pueda ayudar a la gente lo más pronto! "
     }, {
     "id": 6,
     "url": "http://localhost:4000/undistance/resources",

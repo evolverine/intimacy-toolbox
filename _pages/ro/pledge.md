@@ -9,7 +9,7 @@ lang: ro
 
 <span class="small mark">Care-i povestea cu promisiunea asta? Citește [aici]({{site.baseurl}}/about). Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️</span>
 
-# Pentru că observ și accept că
+# Recunoscând că
 
 
 *   [**Sunt profundament conectat cu necunoscuți**](https://youtu.be/X0mHf3oSUdU). În consecință, comportamentul meu afectează oameni aparent separați de mine.
