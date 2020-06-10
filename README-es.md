@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caja de herramientas a-distanciamiento
+title:
 permalink: /
 comments: false
 lang: es

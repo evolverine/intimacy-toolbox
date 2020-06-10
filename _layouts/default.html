@@ -6,7 +6,7 @@
 
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-    <title>{{ page.title }} | {{site.name}}</title>
+    <title>{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}</title>
 
     {% seo %}
         
@@ -57,12 +57,12 @@ ga('send', 'pageview');
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li><a href="{{site.baseurl}}/">Home</a></li>
-        <li><a href="{{site.baseurl}}/pledge">Pledge</a></li>
-        <li><a href="{{site.baseurl}}/resources">Resources</a></li>
-        <li><a href="{{site.baseurl}}/about">About</a></li>
-        <li><a href="{{site.baseurl}}/get-involved">Get involved!</a></li>
-        <li><a href="{{site.baseurl}}/contact">Contact</a></li>       
+        <li><a href="{{site.baseurl}}/">{{ site.menu[site.active_lang][0] }}</a></li>
+        <li><a href="{{site.baseurl}}/pledge">{{ site.menu[site.active_lang][1] }}</a></li>
+        <li><a href="{{site.baseurl}}/resources">{{ site.menu[site.active_lang][2] }}</a></li>
+        <li><a href="{{site.baseurl}}/about">{{ site.menu[site.active_lang][3] }}</a></li>
+        <li><a href="{{site.baseurl}}/get-involved">{{ site.menu[site.active_lang][4] }}</a></li>
+        <li><a href="{{site.baseurl}}/contact">{{ site.menu[site.active_lang][5] }}</a></li>       
     </ul>
 </nav>
 
@@ -80,7 +80,7 @@ ga('send', 'pageview');
     ================================================== -->
    {% if site.logo %}
     <a class="navbar-brand" href="{% link README.md %}">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name[site.active_lang] }}">
     </a>  
    {% endif %}
 
@@ -112,7 +112,7 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name[site.active_lang] }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net

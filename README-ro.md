@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instrumentarul a-distanțării
+title:
 permalink: /
 comments: false
 lang: ro

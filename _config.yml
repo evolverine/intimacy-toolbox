@@ -1,4 +1,8 @@
-name: The Undistancing Toolbox
+name:
+  en: The Undistancing Toolbox
+  ro: Instrumentarul a-distanțării
+  es: Caja de herramientas a-distanciamiento
+  ca: Caixa d'eines a-distanciament
 destination: docs
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
@@ -13,9 +17,17 @@ languages: ["en", "ro", "ca", "es"]
 default_lang: "en"
 exclude_from_localization: ["assets", "_layouts", "docs"]
 parallel_localization: false
+
 include: ['_pages', '_posts']
+exclude: ['Gemfile.lock', 'bundle', 'LICENSE']
 
 sass:
     sourcemap: never
 
 plugins: [jekyll-polyglot]
+
+menu:
+  en: ['Home', 'Pledge', 'Resources', 'About', 'Get involved!', 'Contact']
+  ro: ['Acasă', 'Promisiunea', 'Resurse', 'Despre', 'Implică-te!', 'Contact']
+  es: ['Página principal', 'La promesa', 'Recursos', 'Sobre', '¡Implicate!', 'Contacto']
+  ca: ['Pàgina principal', 'La promesa', 'Recursos', 'Sobre', "Implica't!", 'Contacte']

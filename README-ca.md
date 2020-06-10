@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caixa d'eines a-distanciament
+title:
 permalink: /
 comments: false
 lang: ca

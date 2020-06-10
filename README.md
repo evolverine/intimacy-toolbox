@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Undistancing Toolbox
+title:
 permalink: /
 comments: false
 lang: en
