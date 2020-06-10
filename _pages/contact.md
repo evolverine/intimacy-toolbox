@@ -3,11 +3,12 @@ layout: page
 title: Contact
 permalink: /contact
 comments: false
+lang: en
 ---
 
 ## Who
 
-I, [@evolverine](https://github.com/evolverine), have put together this toolbox to support myself and others in navigating our transition to intimacy in the (post-?) COVID-19 era.
+I, [@evolverine](https://github.com/evolverine), have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era.
 
 ## Reach out
 

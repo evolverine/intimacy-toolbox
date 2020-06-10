@@ -3,6 +3,7 @@ layout: page
 title: Get involved!
 permalink: /get-involved
 comments: false
+lang: en
 ---
 
 # How you can help  
