@@ -33,7 +33,7 @@ var documents = [{
     "id": 6,
     "url": "https://evolverine.github.io/undistance/pledge",
     "title": "Promesa a-distanciament v0.5",
-    "body": "Sobre aquesta promesa pots llegir més aquí Reconeixent que Estic profundament connectat amb gent que no conec. Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,Aquest document está en proces de traducción, desde la seva versió en anglés (que pots llegir fent clic en l’enllaç „en” del menu de l’esquerra). Contribueix a la seva traducció para que pugui ajudar a la gent el més aviat! "
+    "body": "Sobre aquesta promesa pots llegir més aquí Reconeixent que … Estic profundament connectat amb gent que no conec. Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,Aquest document está en proces de traducción, desde la seva versió en anglés (que pots llegir fent clic en l’enllaç „en” del menu de l’esquerra). Contribueix a la seva traducció para que pugui ajudar a la gent el més aviat! "
     }, {
     "id": 7,
     "url": "https://evolverine.github.io/undistance/resources",
