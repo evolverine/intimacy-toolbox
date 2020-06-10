@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
     <title>{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}</title>
+
     <meta property="og:title" content="{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.image }}">
 
     {% seo %}
         

@@ -3,6 +3,7 @@ layout: page
 title: Promisiunea adistanțare v0.5
 permalink: /pledge
 comments: false
+image: assets/images/cobweb.jpg
 last_modified_at: 2020-06-06
 lang: ro
 ---
