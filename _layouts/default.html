@@ -3,19 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-
     <title>{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}</title>
+    <meta property="og:title" content="{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}">
 
     {% seo %}
         
     <link href="{{ '/assets/css/prism.css' | relative_url }}" rel="stylesheet">
-
     <link href="{{ '/assets/css/theme.css' | relative_url }}" rel="stylesheet">
-
     <link href="{{ '/assets/css/overrides.css' | relative_url }}" rel="stylesheet">
-
     <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
 </head>
 
