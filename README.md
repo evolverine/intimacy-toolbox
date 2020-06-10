@@ -13,7 +13,6 @@ If you feel something evident is missing or incomplete, do [get in touch]({{site
 
 # The Undistancing Pledge
 
-
 I called it a pledge, but maybe "statement of intention" or even "conversation starter" can define it better. It's meant to help us get on the same page, which is tricky these days.
 <a class="btn btn-primary btn-lg" href="{{site.baseurl}}/pledge">Read the Undistancing pledge</a>
 

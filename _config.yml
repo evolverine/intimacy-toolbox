@@ -13,6 +13,7 @@ google_optimize: OPT-KWQHHCF
 include: ["_pages", "assets"]
 email: 2a5464d3@opayq.com
 lazyimages: "enabled"
+url: https://evolverine.github.io
 
 languages: ["en", "ro", "ca", "es"]
 default_lang: "en"
