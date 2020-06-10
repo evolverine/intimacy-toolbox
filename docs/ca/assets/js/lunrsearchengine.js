@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/undistance/",
+    "url": "/undistance/",
     "title": "",
     "body": "Benvinguda!La pàgina que estàs llegint és la resposta temptativa i en constant evolució a la pregunta com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere? No hi ha una sola ‘solució’, és clar, i aquesta pàgina només aspira contribuir amb una eina parcial, entre les moltes necessàries. Si sents que alguna cosa està incompleta o que a la web li falta alguna cosa evident, posa’t en contacte i fem que aquest viatge sigui menys difícil per a todes. Promesa a-distanciamentLa vaig anomenar promesa, però potser “declaració d’intencions” o, fins i tot, “iniciador de conversa” poden servir millor. Està destinada a ajudar-nos sintonitzar les nostres valors i supòsits. Llegeix la promesa a-distanciament Altres recursosUna col·lecció d’articles amb recursos que poden ser útils: per a la comunicació, millorar les relacions, controlar les emocions, etc. Accedeix aquí "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/undistance/about",
+    "url": "/undistance/about",
     "title": "About the toolbox",
     "body": "About the undistancing pledgeMy hope in writing it: I was imagining this dialogue  “How do you want intimacy to work between us now?”  “I… I’m not exactly sure; it feels so complicated! I don’t really know where to start…” and hoping it could sometimes continue this way  …“but I read this thing last night called the Undistancing Pledge, and it’s giving me some ideas. ”  “The Undistancing Pledge?”  “Yeah, it’s… I’d say it’s a bunch of values and assumptions around intimacy in times of COVID; it won’t give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don’t like about it, and see where that takes us?”  “Sounds good. Shall I read it now?”  “Yeah, it’s not super long. ” About the resourcesI realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time. "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/undistance/contact",
+    "url": "/undistance/contact",
     "title": "Contact",
     "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
     }, {
     "id": 3,
-    "url": "http://localhost:4000/undistance/difficult-conversations",
+    "url": "/undistance/difficult-conversations",
     "title": "Having difficult conversations",
     "body": "Resources for having difficult conversations "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/undistance/get-involved",
+    "url": "/undistance/get-involved",
     "title": "Get involved!",
     "body": "How you can help   By suggesting what you think can be improved, regarding both content and structure.     By suggesting links (to articles, Wikipedia pages, news items, etc. ) that illustrate and go deeper into the points made in the pledge and elsewhere.     By offering your help with translating the site in a language you are fluent in.     Through other ways that we can’t anticipate 🙂️  Many thanks for your feedback! "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/undistance/pledge",
+    "url": "/undistance/pledge",
     "title": "Promesa a-distanciament v0.5",
     "body": "Sobre aquesta promesa pots llegir més aquí Reconeixent que Estic profundament connectat amb gent que no conec. Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,Aquest document está en proces de traducción, desde la seva versió en anglés (que pots llegir fent clic en l’enllaç „en” del menu de l’esquerra). Contribueix a la seva traducció para que pugui ajudar a la gent el més aviat! "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/undistance/resources",
+    "url": "/undistance/resources",
     "title": "Resources",
     "body": "Other writings about relationships in times of COVID-19:  Evelin Dacker MD, COVID Care Gideon Lichfield, A guide to negotiating a covid “bubble” with other people Libby Sinback, Thinking About Expanding Your Polyamorous Quaranteam? Angela Lashbrook, Is it Safe to “Quaranteam”Having difficult conversations:  The Gottman Institute, Dr. Gottman’s 3 Skills (and 1 Rule!) for Intimate Conversation The Gottman Institute, The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling Adar Cohen, 3 steps to having difficult — but necessary — conversations Daniel H. Cohen, For argument’s sake TED TalkBoundaries and consent:  Miri Mogilevsky, 5 Ways to Navigate Consent with a Partner Who Has Trouble Setting BoundariesMental health:  Sam Dylan Finch, 10 Ways to ‘Reach Out’ When You’re Struggling With Your Mental Health kylarosesims, When Your Partner Has Anxiety. A Meltdown GuideCalling in, calling out, saying sorry:  Cliff Pervocracy, Just one ally.  Ngọc Loan Trần, Calling IN: A Less Disposable Way of Holding Each Other Accountable Franchesca Ramsey, How to Apologize When You Get Called Out Nora Samaran, Own, Apologize, Repair: Coming Back to IntegrityPrivilege:  Parul Sehgal, How ‘Privilege’ Became a ProvocationCare and loneliness:  Caleb Luna, Romantic Love is Killing Us: Who Takes Care of Us When We Are Single? Kitty Stryker, “Radical Self-Reliance” Is Killing People Mia Mingus, Pods and Pod Mapping WorksheetEmotions:  Scott Barry Kaufman, One Skeptical Scientist’s Mindfulness Journey Rick Hanson, How to Hardwire Resilience into Your Brain Kelly McGonigal, How to make stress your friend TED talk Stacey Kennelly, 10 Steps to Savoring the Good Things in Life Meg-John Barker , Other People’s FeelingsPractical information about COVID-19:  WHO, Coronavirus U. Minnesota Center for Infectious Disease Reseach and Policy, COVID-19 Resource Center NHS, COVID-19 Financial Times, Coronavirus tracked: the latest figures as countries fight to contain the pandemic I’ve been compiling some of the basic information about SARS-CoV-2 and COVID-19 in the form of an Anki flash card deck. "
     }, ];

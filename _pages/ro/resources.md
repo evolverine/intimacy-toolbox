@@ -7,7 +7,7 @@ last_modified_at: 2020-06-06
 lang: ro
 ---
 
-<span class="mark">Deocamdată majoritatea articolelor sunt în engleză. Mi-ar plăcea mult să ajungă să fie toate în limba română. Te invit <a href="{{site.baseurl}}/get-involved">să propui toate articolel care crezi că ar trebui să apară aici!</a></span>
+<span class="mark">Deocamdată majoritatea articolelor sunt în engleză. Mi-ar plăcea mult să ajungă să fie toate în limba română. Te invit <a href="{{site.baseurl}}/get-involved">să propui toate articolele care crezi că ar trebui să apară aici!</a></span>
 
 ## Relații în vremuri de COVID-19
 
