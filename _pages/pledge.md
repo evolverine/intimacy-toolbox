@@ -6,6 +6,7 @@ comments: false
 image: assets/images/cobweb.jpg
 last_modified_at: 2020-06-06
 lang: en
+fb-description: Because I acknowledge that ... I want to do my best by others by ... so that together we may ... enjoy each other's company
 ---
 
 <span class="small mark">What's the story with this pledge? Read about it [here]({{site.baseurl}}/about). And for the text that's hard to read, just click on it and it will magically reveal itself!</span>

@@ -8,6 +8,10 @@
 
     <meta property="og:title" content="{{ page.title }}{% if page.title %} | {% endif %}{{site.name[site.active_lang]}}">
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.image }}">
+    <meta property="og:locale" content="{{ site.locales[site.active_lang] }}">
+    {% if page.fb-description %}
+    <meta property="og:description" content="{{ page.fb-description }}">
+    {% endif %}
 
     {% seo %}
         

@@ -33,3 +33,9 @@ menu:
   ro: ['Acasă', 'Promisiunea', 'Resurse', 'Despre', 'Implică-te!', 'Contact']
   es: ['Página principal', 'La promesa', 'Recursos', 'Sobre', '¡Implicate!', 'Contacto']
   ca: ['Pàgina principal', 'La promesa', 'Recursos', 'Sobre', "Implica't!", 'Contacte']
+
+locales:
+  en: en_US
+  ro: ro_RO
+  es: es_ES
+  ca: ca_ES
