@@ -2,8 +2,8 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "The Undistancing Toolbox | Connection and communication tools in times of COVID-19",
-    "body": "Hi!Welcome. The page you’re looking at is the tentative, and ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, but there can hopefully be space for learning, for getting clear about our values and some of our facts, and taking it from there with care and openness. If something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The Undistancing PledgeI call it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the Undistancing pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
+    "title": "The Undistancing Toolbox",
+    "body": "Hi!Welcome. The page you’re looking at is the tentative, ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, and this page only hopes to contribute a partial tool of the many needed for the job. If you feel something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The Undistancing PledgeI called it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the Undistancing pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
     }, {
     "id": 1,
     "url": "http://localhost:4000/undistance/about",

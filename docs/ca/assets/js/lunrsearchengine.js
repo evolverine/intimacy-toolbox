@@ -2,8 +2,8 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "The Undistancing Toolbox | Connection and communication tools in times of COVID-19",
-    "body": "Hi!Welcome. The page you’re looking at is the tentative, and ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, but there can hopefully be space for learning, for getting clear about our values and some of our facts, and taking it from there with care and openness. If something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The Undistancing PledgeI call it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the Undistancing pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
+    "title": "Caixa d'eines a-distanciament",
+    "body": "Benvinguda!La pàgina que estàs llegint és la resposta temptativa i en constant evolució a la pregunta com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere? No hi ha una sola ‘solució’, és clar, i aquesta pàgina només aspira contribuir amb una eina parcial, entre les moltes necessàries. Si sents que alguna cosa està incompleta o que a la web li falta alguna cosa evident, posa’t en contacte i fem que aquest viatge sigui menys difícil per a todes. Promesa a-distanciamentLa vaig anomenar promesa, però potser “declaració d’intencions” o, fins i tot, “iniciador de conversa” poden servir millor. Està destinada a ajudar-nos sintonitzar les nostres valors i supòsits. Llegeix la promesa a-distanciament Altres recursosUna col·lecció d’articles amb recursos que poden ser útils: per a la comunicació, millorar les relacions, controlar les emocions, etc. Accedeix aquí "
     }, {
     "id": 1,
     "url": "http://localhost:4000/undistance/about",
