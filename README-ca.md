@@ -4,6 +4,7 @@ title:
 permalink: /
 comments: false
 lang: ca
+fb-description: Com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere?
 ---
 
 # Benvinguda!

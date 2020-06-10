@@ -4,6 +4,7 @@ title:
 permalink: /
 comments: false
 lang: es
+fb-description: ¿Cómo podemos reencontrarnos en conexión e intimidad en un mundo de COVID-19 sin dejar a nadie atrás?
 ---
 
 # ¡Bienvenida!

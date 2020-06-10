@@ -4,6 +4,7 @@ title:
 permalink: /
 comments: false
 lang: ro
+fb-description: Cum ne putem reîntâlni și reconecta în timpuri de COVID, fără a lăsa pe nimeni în urmă?
 ---
 
 # Bine ai venit!

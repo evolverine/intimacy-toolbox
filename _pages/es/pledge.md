@@ -6,11 +6,12 @@ comments: false
 image: assets/images/cobweb.jpg
 last_modified_at: 2020-06-06
 lang: es
+fb-description: Porque reconozco que ...
 ---
 
 <span class="small mark">Sobre esta promesa puedes leer más [aquí]({{site.baseurl}}/about)</span>
 
-# Porque reconozco que
+# Porque reconozco que ...
 
 
 *   [**Estoy profundamente conectada con gente que no conozco.**](https://youtu.be/X0mHf3oSUdU). Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,
