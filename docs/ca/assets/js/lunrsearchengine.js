@@ -2,7 +2,7 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "Caixa d'eines a-distanciament",
+    "title": "",
     "body": "Benvinguda!La pàgina que estàs llegint és la resposta temptativa i en constant evolució a la pregunta com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere? No hi ha una sola ‘solució’, és clar, i aquesta pàgina només aspira contribuir amb una eina parcial, entre les moltes necessàries. Si sents que alguna cosa està incompleta o que a la web li falta alguna cosa evident, posa’t en contacte i fem que aquest viatge sigui menys difícil per a todes. Promesa a-distanciamentLa vaig anomenar promesa, però potser “declaració d’intencions” o, fins i tot, “iniciador de conversa” poden servir millor. Està destinada a ajudar-nos sintonitzar les nostres valors i supòsits. Llegeix la promesa a-distanciament Altres recursosUna col·lecció d’articles amb recursos que poden ser útils: per a la comunicació, millorar les relacions, controlar les emocions, etc. Accedeix aquí "
     }, {
     "id": 1,
@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/undistance/contact",
     "title": "Contact",
-    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the (post-?) COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
+    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
     }, {
     "id": 3,
     "url": "http://localhost:4000/undistance/difficult-conversations",

@@ -2,7 +2,7 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "Caja de herramientas a-distanciamiento",
+    "title": "",
     "body": "¡Bienvenida!La página que estás leyendo es la respuesta tentativa y en constante evolución a la pregunta ¿cómo podemos reencontrarnos en conexión e intimidad en un mundo de COVID-19 sin dejar a nadie atrás? No hay una ‘solución’, por supuesto, y esta página solo aspira contribuir con una herramienta parcial, entre las muchas necesarias. Si sientes que algo está incompleto o que a la web le falta algo evidente, ponte en contacto y hagamos que este viaje sea menos difícil para todes. Promesa a-distanciamientoLo llamé promesa, pero tal vez “declaración de intenciones” o incluso “iniciador de conversación” pueden servir mejor. Está destinada a ayudarnos sintonizar las nuestras valores y supuestos. Lee la promesa a-distanciamiento Otros recursosUna colección de artículos con recursos que pueden ser útiles: para la comunicación, mejorar las relaciones, controlar las emociones, etc. Accédelos aquí "
     }, {
     "id": 1,
@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/undistance/contact",
     "title": "Contact",
-    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the (post-?) COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
+    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
     }, {
     "id": 3,
     "url": "http://localhost:4000/undistance/difficult-conversations",

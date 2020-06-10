@@ -1,2 +1,0 @@
-clear
-bundle exec jekyll serve --incremental --trace

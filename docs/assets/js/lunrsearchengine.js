@@ -2,7 +2,7 @@
 var documents = [{
     "id": 0,
     "url": "http://localhost:4000/undistance/",
-    "title": "The Undistancing Toolbox",
+    "title": "",
     "body": "Hi!Welcome. The page you’re looking at is the tentative, ever-evolving response to the question how can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind? There’s no one ‘solution’, of course, and this page only hopes to contribute a partial tool of the many needed for the job. If you feel something evident is missing or incomplete, do get in touch and let’s make this trip less rocky together. The Undistancing PledgeI called it a pledge, but maybe “statement of intention” or even “conversation starter” can define it better. It’s meant to help us get on the same page, which is tricky these days. Read the Undistancing pledge Other resourcesA collection of articles with resources that may come in handy - for communication, doing relationships better, managing emotions, etc. Read them here "
     }, {
     "id": 1,
@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/undistance/contact",
     "title": "Contact",
-    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the (post-?) COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
+    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
     }, {
     "id": 3,
     "url": "http://localhost:4000/undistance/difficult-conversations",
