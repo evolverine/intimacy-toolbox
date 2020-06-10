@@ -72,4 +72,8 @@ lang: ro
 * **prevenim suferința**, în special pentru cei cu risc mai mare de diverse privațiuni
 
 
-\* Deși aici se referă la [simptome COVID-19] (https://www.who.int/health-topics/coronavirus#tab=tab_3), se poate aplica și altor boli infecțioase.
+\* Deși aici se referă la [simptome COVID-19](https://www.who.int/health-topics/coronavirus#tab=tab_3), se poate aplica și altor boli infecțioase.
+
+# Resurse
+
+Pentru alte resurse care pot ajuta cu diverse puncte din această promisiune, urmează acest [link]({{site.baseurl}}/resources).

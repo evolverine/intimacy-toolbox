@@ -74,3 +74,7 @@ lang: en
 
 
 \* Although here it refers to [COVID-19 symptoms](https://www.who.int/health-topics/coronavirus#tab=tab_3), this can apply to other infectious illnesses as well.
+
+# Resources
+
+For more resources to help with this pledge, click [here]({{site.baseurl}}/resources).
