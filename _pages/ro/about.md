@@ -8,7 +8,7 @@ lang: ro
 
 # Despre instrumentarul a-distanțării
 
-### Ce speram când am scris promisiunea a-distanțării
+### Ce speram când am scris [promisiunea a-distanțării]({{site.baseurl}}/pledge)
 
 Îmi imaginam dialogul următor:
 
@@ -28,6 +28,6 @@ lang: ro
 
 >  "Da, pentru că nu e prea lung."
 
-# Despre resurse
+# Despre [resurse]({{site.baseurl}}/resources)
 
 Mi-am dat seama că promisiunea, doar de capul ei, putea să fie chiar mai frustrantă decât utilă în anumite contexte. Presupune unele abilități și perspective în legătură cu teme precum comunicarea, grija pentru sine și alții, perspective politice asupra relațiilor, etc. Așa că am vrut să includ alte resurse care să poată adresa temele respective și care să ne apropie, în felul ăsta, de lumea pe care vrem s-o construim, o interacțiune după alta.

@@ -6,7 +6,7 @@ comments: false
 lang: 'en'
 ---
 
-# About the undistancing pledge
+# About [the undistancing pledge]({{site.baseurl}}/pledge)
 
 ### My hope in writing it
 
@@ -28,6 +28,6 @@ and hoping it could sometimes continue this way
 
 >  "Yeah, it's not super long."
 
-# About the resources
+# About [the resources]({{site.baseurl}}/resources)
 
 I realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time.
