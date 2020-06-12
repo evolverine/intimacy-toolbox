@@ -4,7 +4,7 @@ title: Resurse
 description: Resurse pentru a ne reconecta în vremuri de COVID-19
 permalink: /resources
 comments: false
-last_modified_at: 2020-06-06
+date_modified: 2020-06-06
 lang: ro
 ---
 

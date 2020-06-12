@@ -4,7 +4,7 @@ title: Resources
 description: Resources for reconnection in times of COVID-19
 permalink: /resources
 comments: false
-last_modified_at: 2020-06-06
+date_modified: 2020-06-06
 lang: en
 ---
 
