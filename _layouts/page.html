@@ -15,10 +15,17 @@ layout: default
 </div>
 
 <!-- Featured Image -->
+{% unless page.image-at-bottom %}
 {% include featured-image.html %}
+{% endunless %}
 
 <!-- Content -->
 {% include article.html %}
+
+<!-- Featured Image -->
+{% if page.image-at-bottom %}
+{% include featured-image.html %}
+{% endif %}
 
 <!-- Comments if not disabled with comments: false -->
 {% include comments.html %}
