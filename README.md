@@ -4,6 +4,8 @@ title:
 permalink: /
 comments: false
 lang: en
+image: assets/images/walking_dogs_with_mask.jpg
+image-at-bottom: true
 fb-description: How can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind?
 ---
 

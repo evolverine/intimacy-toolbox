@@ -4,6 +4,8 @@ title:
 permalink: /
 comments: false
 lang: ro
+image: assets/images/walking_dogs_with_mask.jpg
+image-at-bottom: true
 fb-description: Cum ne putem reîntâlni și reconecta în timpuri de COVID, fără a lăsa pe nimeni în urmă?
 ---
 

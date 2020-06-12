@@ -4,6 +4,8 @@ title:
 permalink: /
 comments: false
 lang: es
+image: assets/images/walking_dogs_with_mask.jpg
+image-at-bottom: true
 fb-description: ¿Cómo podemos reencontrarnos en conexión e intimidad en un mundo de COVID-19 sin dejar a nadie atrás?
 ---
 

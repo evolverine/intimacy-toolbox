@@ -4,6 +4,8 @@ title:
 permalink: /
 comments: false
 lang: ca
+image: assets/images/walking_dogs_with_mask.jpg
+image-at-bottom: true
 fb-description: Com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere?
 ---
 
