@@ -1,13 +1,13 @@
 ---
 layout: page
 title:
+description: How can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind?
 permalink: /
 comments: false
 lang: en
 image: assets/images/walking_dogs_with_mask.jpg
 image-at-bottom: true
 image-attribution: Photo by <a href="https://www.pexels.com/@gustavo-fring?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">Gustavo Fring</a> from <a href="https://www.pexels.com/photo/photo-of-women-walking-with-their-dogs-on-grass-field-4148877/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a>
-fb-description: How can we reencounter ourselves in connection and intimacy in a world of COVID-19 without leaving anyone behind?
 ---
 
 # Hi!

@@ -1,13 +1,13 @@
 ---
 layout: page
 title:
+description: Com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere?
 permalink: /
 comments: false
 lang: ca
 image: assets/images/walking_dogs_with_mask.jpg
 image-at-bottom: true
 image-attribution: Foto per <a href="https://www.pexels.com/@gustavo-fring?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">Gustavo Fring</a> de <a href="https://www.pexels.com/photo/photo-of-women-walking-with-their-dogs-on-grass-field-4148877/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a>
-fb-description: Com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere?
 ---
 
 # Benvinguda!

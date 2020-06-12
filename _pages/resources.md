@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Resources
+description: Resources for reconnection in times of COVID-19
 permalink: /resources
 comments: false
 last_modified_at: 2020-06-06
 lang: en
-fb-description: Resources for reconnection in times of COVID-19
 ---
 
 ## Other writings about relationships in times of COVID-19

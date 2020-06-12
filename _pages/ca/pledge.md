@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Promesa a-distanciament v0.5
+description: Reconeixent que ...
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
 last_modified_at: 2020-06-06
 lang: ca
-fb-description: Reconeixent que ...
 ---
 
 <span class="small mark">Sobre aquesta promesa pots llegir més [aquí]({{site.baseurl}}/about)</span>

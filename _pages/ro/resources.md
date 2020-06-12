@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Resurse
+description: Resurse pentru a ne reconecta în vremuri de COVID-19
 permalink: /resources
 comments: false
 last_modified_at: 2020-06-06
 lang: ro
-fb-description: Resurse pentru a ne reconecta în vremuri de COVID-19
 ---
 
 <span class="mark">Deocamdată majoritatea articolelor sunt în engleză. Mi-ar plăcea mult să ajungă să fie toate în limba română. Te invit <a href="{{site.baseurl}}/get-involved">să propui toate articolele care crezi că ar trebui să apară aici!</a></span>

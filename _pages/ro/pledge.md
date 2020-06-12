@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Promisiunea adistanțare v0.5
+description: Recunoscând că ... vreau să am grijă de alții ... pentru ca împreună să putem să ... ne bucurăm de compania celorlalți
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
 last_modified_at: 2020-06-06
 lang: ro
-fb-description: Recunoscând că ... vreau să am grijă de alții ... pentru ca împreună să putem să ... ne bucurăm de compania celorlalți
 ---
 
 <span class="small mark">Care-i povestea cu promisiunea asta? Citește [aici]({{site.baseurl}}/about). Și cu partea de text care e greu de citit de mai jos, dați click pe el și vi se va arăta! 😉️</span>
