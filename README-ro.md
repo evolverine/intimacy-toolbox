@@ -6,6 +6,7 @@ comments: false
 lang: ro
 image: assets/images/walking_dogs_with_mask.jpg
 image-at-bottom: true
+image-attribution: Fotografiat de <a href="https://www.pexels.com/@gustavo-fring?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">Gustavo Fring</a>, pe situl <a href="https://www.pexels.com/photo/photo-of-women-walking-with-their-dogs-on-grass-field-4148877/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a>
 fb-description: Cum ne putem reîntâlni și reconecta în timpuri de COVID, fără a lăsa pe nimeni în urmă?
 ---
 

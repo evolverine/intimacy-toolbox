@@ -6,6 +6,7 @@ comments: false
 lang: es
 image: assets/images/walking_dogs_with_mask.jpg
 image-at-bottom: true
+image-attribution: Foto por <a href="https://www.pexels.com/@gustavo-fring?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">Gustavo Fring</a> de <a href="https://www.pexels.com/photo/photo-of-women-walking-with-their-dogs-on-grass-field-4148877/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a>
 fb-description: ¿Cómo podemos reencontrarnos en conexión e intimidad en un mundo de COVID-19 sin dejar a nadie atrás?
 ---
 
