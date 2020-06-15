@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Promisiunea adistanțare v0.5
+title: Promisiunea adistanțare v0.6
 description: Recunoscând că ... vreau să am grijă de alții ... pentru ca împreună să putem să ... ne bucurăm de compania celorlalți
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
-date_modified: 2020-06-06
+date_modified: 2020-06-15
 lang: ro
 ---
 
@@ -33,7 +33,7 @@ lang: ro
 # ... vreau să am grijă de alții ...
 
 
-* **învățând** - și actualizându-mi cunoștințele periodic - **despre COVID-19 și măsurile recomandate în zona mea**. <span class = "spoiler">SARS-CoV-2: timpul mediu de incubație, numărul mediu de zile în care virusul a fost găsit prezent în corpurile oamenilor, simptomele, mijloacele de transmitere, rata contagiului asimptomatic, etc. Context local: măsurile de siguranță recomandate la domiciliu, la locul de muncă, socializând, etc.</span>
+* **învățând** - și actualizându-mi cunoștințele periodic - **despre COVID-19 și măsurile recomandate unde trăiesc**. <span class = "spoiler">SARS-CoV-2: timpul mediu de incubație, numărul mediu de zile în care virusul a fost găsit prezent în corpurile oamenilor, simptomele, mijloacele de transmitere, rata contagiului asimptomatic, etc. Context local: măsurile de siguranță recomandate la domiciliu, la locul de muncă, socializând, etc.</span>
 
 * **răspunzând cu recunoștință** când alții îmi indică informații pe care nu le cunoșteam și fiind deschis să mă răzgândesc atunci când descopăr informații mai precise.
 
@@ -51,11 +51,11 @@ lang: ro
 
 * **evitând să îi presionez pe alții** și pe mine însămi.
 
-* **punându-mă în legătură și oferindu-mi ajutorul** celor care poate sunt izolați sau ignorați. <span class = "spoiler">De la conversații prin telefon, la plimbări (poate respectând distanța adecvată), la ajutor în a face cumpărăturile, la împrumuturi sau cadouri, la înființarea unui club de carte, etc.</span> În special,
+* **punându-mă în legătură și oferindu-mi ajutorul** celor care poate sunt izolați sau ignorați. <span class = "spoiler">De la conversații prin telefon, la plimbări (poate respectând distanța adecvată), la ajutor în a face cumpărăturile, la împrumuturi sau cadouri, la înființarea unui club virtual de carte, etc.</span> În special,
 
 * **descoperind în mod activ activități care ne pot satisface reciproc**, în special cu cei cu risc mai mare sau cu mai multe limite și limitări.
 
-* **fiind deschis și sincer în legătură cu propria mea stare fizică** când și unde este relevant. În special,
+* **fiind deschis și sincer în legătură cu propria mea stare fizică** și cu comportamentele sociale recente, când și unde este relevant. În special,
 
 * **făcându-mi analize atunci când este posibil și relevant**, (dacă am un risc ridicat, să spunem, din cauza muncii mele sau când apar simptome relevante) și
 
@@ -69,7 +69,7 @@ lang: ro
 
 * **evităm regretele** când vine vorba de a ne apropia de alții
 
-* **câștigăm mai mult timp**, până la dezvoltarea tratamentelor și a vaccinurilor și până când societățile noastre au șanse mai bune de a se adapta la aceste schimbări rapide
+* **câștigăm mai mult timp**, până la dezvoltarea tratamentelor și a vaccinurilor și până când societățile noastre au șanse mai bune de a se adapta la aceste schimbări
 
 * **prevenim suferința**, în special pentru cei cu risc mai mare de diverse privațiuni
 

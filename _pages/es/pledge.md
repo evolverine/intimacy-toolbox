@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Promesa a-distanciamiento v0.5
+title: Promesa a-distanciamiento v0.6
 description: Porque reconozco que ...
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
-date_modified: 2020-06-06
+date_modified: 2020-06-15
 lang: es
 ---
 
