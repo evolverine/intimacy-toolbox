@@ -32,7 +32,7 @@ var documents = [{
     }, {
     "id": 6,
     "url": "https://evolverine.github.io/undistance/pledge",
-    "title": "Promesa a-distanciamiento v0.5",
+    "title": "Promesa a-distanciamiento v0.6",
     "body": "Sobre esta promesa puedes leer más aquí Porque reconozco que … Estoy profundamente conectada con gente que no conozco. . Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,Este documento está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción para que pueda ayudar a la gente lo más pronto! "
     }, {
     "id": 7,
