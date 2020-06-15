@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Caja de herramientas a-distanciamiento
 description: ¿Cómo podemos reencontrarnos en conexión e intimidad en un mundo de COVID-19 sin dejar a nadie atrás?
 permalink: /
 comments: false

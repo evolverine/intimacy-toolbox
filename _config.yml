@@ -6,7 +6,8 @@ name:
 destination: docs
 remote_theme: wowthemesnet/jekyll-theme-memoirs
 show_downloads: false
-title: "The Undistancing Toolbox: intimacy and communication in times of COVID-19"
+title: The Undistancing Toolbox
+
 baseurl: /undistance
 google_analytics: UA-113326958-1
 google_optimize: OPT-KWQHHCF

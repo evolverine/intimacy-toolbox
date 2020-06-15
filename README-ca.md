@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Caixa d'eines a-distanciament
 description: Com podem retrobar-nos en connexió i intimitat en un món de COVID-19 sense deixar a ningú enrere?
 permalink: /
 comments: false

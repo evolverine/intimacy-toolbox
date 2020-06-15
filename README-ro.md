@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Instrumentarul a-distanțării
 description: Cum ne putem reîntâlni și reconecta în timpuri de COVID, fără a lăsa pe nimeni în urmă?
 permalink: /
 comments: false
