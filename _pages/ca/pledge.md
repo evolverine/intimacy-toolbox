@@ -30,7 +30,7 @@ lang: ca
 
 * **Les percepcions de risc són importants**. <span class = "spoiler">Tot i que és clarament útil basar la meva percepció de risc en els millors coneixements als quals puc tenir accés (i en el meu context particular), mai no puc conèixer tots els factors i valors que entren en les percepcions de risc d'altres.</span>
 
-# ... Vull fer el millor possible per a la resta ...
+# ... vull fer el millor possible per a la resta ...
 
 
 * **aprenent** — i actualitzant periòdicament els meus coneixements — **sobre COVID-19 i les mesures recomanades on visc**. <span class="spoiler">SARS-CoV-2: coses com el temps mitjà d'incubació, el nombre mitjà de dies que el virus es va trobar present en els cossos de la gent, símptomes, mitjans de transmissió, taxes probables de transmissió asimptomàtica, etc. Context local: les mesures de seguretat recomanades a casa, a la feina, per a socialitzar, etc.</span>
@@ -61,7 +61,7 @@ lang: ca
 
 * **comunicant als meus contactes recents i futurs quan desenvolupi símptomes o surt un test positiu\***
 
-* **comunicant als meus contactes recents i futurs quan algú amb qui he estat en contacte ha desenvolupat símptomes o ha actuat de manera arriscada**, alhora intentant respectar les necessitats de confidencialitat de tothom implicat.</span>
+* **comunicant als meus contactes recents i futurs quan algú amb qui he estat en contacte ha desenvolupat símptomes o ha actuat de manera arriscada**<span class="spoiler">, alhora intentant respectar les necessitats de confidencialitat de tothom implicat.</span>
 
 # ... perquè juntes puguem ...
 
