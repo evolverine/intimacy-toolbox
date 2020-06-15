@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The Undistancing pledge v0.5
+title: The Undistancing pledge v0.6
 description: Because I acknowledge that ... I want to do my best by others by ... so that together we may ... enjoy each other's company
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
-date_modified: 2020-06-06
+date_modified: 2020-06-15
 lang: en
 ---
 
@@ -34,7 +34,7 @@ lang: en
 # ... I want to do my best by others by ...
 
 
-*   **learning** — and regularly updating my knowledge — **about COVID-19 and the recommended measures in my area**. <span class="spoiler">SARS-CoV-2: things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, means of transmission, likely rates of asymptomatic transmission, etc. My local context: the recommended safety measures at home, at work, while socializing, etc.</span>
+*   **learning** — and regularly updating my knowledge — **about COVID-19 and the recommended measures where I live**. <span class="spoiler">SARS-CoV-2: things like mean incubation time, mean number of days the virus has been found present in people's bodies, symptoms, means of transmission, likely rates of asymptomatic transmission, etc. My local context: the recommended safety measures at home, at work, while socializing, etc.</span>
 
 *   **responding with gratitude** when others point to information I didn't know, and being open to changing my mind when faced with better knowledge.
 
@@ -52,11 +52,11 @@ lang: en
 
 *   **not pressuring** myself and others into changing.
 
-*   **connecting and offering to help with what I can** to compensate for the isolation and disregard that some in my network are likely to experience. <span class="spoiler">From calls to (perhaps physically-distant) walks, to help with shopping, to lending or gifting resources, to setting up book clubs, and so on. </span>In particular,
+*   **connecting and offering to help with what I can** to compensate for the isolation and disregard that some in my network are likely to experience. <span class="spoiler">From calls to (perhaps physically-distant) walks, to help with shopping, to lending or gifting resources (for example, paying for a medical test to someone who needs it but cannot afford it), to setting up virtual book clubs, and so on. </span>In particular,
 
 *   **actively discovering mutually satisfying activities**, especially with those at higher risk, or those with more limits and limitations to their freedom.
 
-*   **being open and honest about my own physical state** when and where that's relevant. In particular,  
+*   **being open and honest about my own physical state** and recent social behaviours, when and where that's relevant. In particular,  
 
 *   **getting tested, when possible and relevant**, (if I run a high risk, say, due to my work, or when relevant symptoms appear), and  
 
@@ -70,7 +70,7 @@ lang: en
 
 *   **avoid regrets** when it comes to being close to others
 
-*   **gain more time**, until treatments and vaccines are developed, and until our societies have a better chance to adapt to these rapid changes  
+*   **gain more time**, until treatments and vaccines are developed, and until our societies have a better chance to adapt to these changes  
 
 *   **prevent suffering** especially for those who are at a higher risk of various privations
 
