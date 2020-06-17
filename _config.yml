@@ -18,11 +18,11 @@ url: https://evolverine.github.io
 
 languages: ["en", "ro", "ca", "es"]
 default_lang: "en"
-exclude_from_localization: ["assets", "_layouts", "docs"]
+exclude_from_localization: ["assets", "_layouts", "docs", "bin"]
 parallel_localization: false
 
 include: ['_pages', '_posts']
-exclude: ['Gemfile.lock', 'bundle', 'LICENSE']
+exclude: ['Gemfile.lock', 'bundle', 'LICENSE', "bin"]
 
 sass:
     sourcemap: never
