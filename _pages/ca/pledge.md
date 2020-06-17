@@ -74,7 +74,7 @@ lang: ca
 * **prevenir el patiment** especialment per a aquelles que corren un risc més elevat de diverses privacions
 
 
-\* Tot i que aquí es refereix a [símptomes COVID-19](https://www.who.int/health-topics/coronavirus#tab=tab_3), també es pot aplicar a altres malalties infeccioses.
+\* Tot i que aquí es refereix a [símptomes COVID-19](https://canalsalut.gencat.cat/ca/salut-a-z/c/coronavirus-2019-ncov/ciutadania/que-es-coronavirus/simptomes-i-tractament/), també es pot aplicar a altres malalties infeccioses.
 
 # Recursos
 
