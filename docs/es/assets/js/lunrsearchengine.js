@@ -12,13 +12,13 @@ var documents = [{
     }, {
     "id": 2,
     "url": "https://evolverine.github.io/undistance/about",
-    "title": "About the toolbox",
-    "body": "About the undistancing pledgeMy hope in writing it: I was imagining this dialogue  “How do you want intimacy to work between us now?”  “I… I’m not exactly sure; it feels so complicated! I don’t really know where to start…” and hoping it could sometimes continue this way  …“but I read this thing last night called the Undistancing Pledge, and it’s giving me some ideas. ”  “The Undistancing Pledge?”  “Yeah, it’s… I’d say it’s a bunch of values and assumptions around intimacy in times of COVID; it won’t give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don’t like about it, and see where that takes us?”  “Sounds good. Shall I read it now?”  “Yeah, it’s not super long. ” About the resourcesI realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time. "
+    "title": "Sobre la caja de herramientas",
+    "body": "Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción About the undistancing pledgeMy hope in writing it: I was imagining this dialogue  “How do you want intimacy to work between us now?”  “I… I’m not exactly sure; it feels so complicated! I don’t really know where to start…” and hoping it could sometimes continue this way  …“but I read this thing last night called the Undistancing Pledge, and it’s giving me some ideas. ”  “The Undistancing Pledge?”  “Yeah, it’s… I’d say it’s a bunch of values and assumptions around intimacy in times of COVID; it won’t give us the magic formula, but I think it can start a good conversation. Shall we go through what we like and don’t like about it, and see where that takes us?”  “Sounds good. Shall I read it now?”  “Yeah, it’s not super long. ” About the resourcesI realised that the pledge by itself could have been, in some situations, even more frustrating than nothing at all. It presupposes and requires certain abilities and perspectives around a host of topics like communication, care, a political approach to relationships, etc. So I wanted to include some of these resources to make it that much more likely that the world we want can be built right now, one interaction at a time. "
     }, {
     "id": 3,
     "url": "https://evolverine.github.io/undistance/contact",
-    "title": "Contact",
-    "body": "Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
+    "title": "Contacto",
+    "body": "Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción Who: I, @evolverine, have put together this toolbox to support myself and others in navigating our transition to intimacy in the COVID-19 era. Reach out: If you want to contact me about this toolbox, the preferred way is through github issues. Or, for more privacy, you can reach me at 2a5464d3 at opayq. com. Support my work: buy me a coffee 🙏 "
     }, {
     "id": 4,
     "url": "https://evolverine.github.io/undistance/difficult-conversations",
@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "https://evolverine.github.io/undistance/get-involved",
     "title": "Get involved!",
-    "body": "How you can help   By suggesting what you think can be improved, regarding both content and structure.     By suggesting links (to articles, Wikipedia pages, news items, etc. ) that illustrate and go deeper into the points made in the pledge and elsewhere.     By offering your help with translating the site in a language you are fluent in.     Through other ways that we can’t anticipate 🙂️  Many thanks for your feedback! "
+    "body": "Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción How you can help   By suggesting what you think can be improved, regarding both content and structure.     By suggesting links (to articles, Wikipedia pages, news items, etc. ) that illustrate and go deeper into the points made in the pledge and elsewhere.     By offering your help with translating the site in a language you are fluent in.     Through other ways that we can’t anticipate 🙂️  Many thanks for your feedback! "
     }, {
     "id": 6,
     "url": "https://evolverine.github.io/undistance/pledge",
