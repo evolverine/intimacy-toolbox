@@ -27,7 +27,9 @@ exclude: ['Gemfile.lock', 'bundle', 'LICENSE']
 sass:
     sourcemap: never
 
-plugins: [jekyll-polyglot]
+plugins:
+  - jekyll-polyglot
+  - jekyll-target-blank
 
 menu:
   en: ['Home', 'Pledge', 'Resources', 'About', 'Get involved!', 'Contact']
