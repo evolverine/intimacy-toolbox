@@ -14,11 +14,11 @@ lang: en
 # Because I acknowledge that ...
 
 
-*   <a href="https://youtu.be/X0mHf3oSUdU" target="_blank">I am deeply connected to strangers</a>, so my behaviours affect those far removed. Also,
+*   [**I am deeply connected to strangers**](https://youtu.be/X0mHf3oSUdU), so my behaviours affect those far removed. Also,
 
 *   **My choices of how to connect with others impact the lives of everyone close to me**. <span class="spoiler">For example, if I decide to hug a lot of people, some of my friends might end up being perceived as higher risk by their own friends.</span>
     
-*   **My knowledge isn't perfect**, and <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank">I'm likely to exaggerate it</a>
+*   **My knowledge isn't perfect**, and [I'm likely to exaggerate it](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
 
 *   Our collective **knowledge about COVID-19 is evolving rapidly**
 
@@ -75,7 +75,7 @@ lang: en
 *   **prevent suffering** especially for those who are at a higher risk of various privations
 
 
-\* Although here it refers to <a href="https://www.who.int/health-topics/coronavirus#tab=tab_3" target="_blank">COVID-19 symptoms</a>, this can apply to other infectious illnesses as well.
+\* Although here it refers to [COVID-19 symptoms](https://www.who.int/health-topics/coronavirus#tab=tab_3), this can apply to other infectious illnesses as well.
 
 # Resources
 

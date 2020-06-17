@@ -14,11 +14,11 @@ lang: ro
 # Recunoscând că ...
 
 
-* <a href="https://youtu.be/X0mHf3oSUdU" target="_blank">Sunt profundament conectat cu necunoscuți</a>. În consecință, comportamentul meu afectează oameni aparent separați de mine.
+* [**Sunt profundament conectat cu necunoscuți**](https://youtu.be/X0mHf3oSUdU). În consecință, comportamentul meu afectează oameni aparent separați de mine.
 
 * **Felul în care aleg să relaționez cu alții influențează viața tuturor celor apropiați mie**. <span class="spoiler">De exemplu, dacă aleg să îmbrățișez multă lume, unii dintre prietenii noștri pot ajunge să fie percepuți ca un risc mai mare de către propriii lor prieteni.</span>
     
-* **Cunoștințele mele nu sunt perfecte** și <a href="https://www.wikiwand.com/ro/Efectul_Dunning-Kruger" target="_blank">e probabil să le exagerez</a>
+* **Cunoștințele mele nu sunt perfecte** și [e probabil să le exagerez](https://www.wikiwand.com/ro/Efectul_Dunning-Kruger)
 
 * Când vine vorba de COVID-19, **cunoștințele noastre colective evoluează rapid**
 
@@ -74,7 +74,7 @@ lang: ro
 * **prevenim suferința**, în special pentru cei cu risc mai mare de diverse privațiuni
 
 
-\* Deși aici se referă la <a href="https://www.who.int/health-topics/coronavirus#tab=tab_3" target="_blank">simptome COVID-19</a>, se poate aplica și altor boli infecțioase.
+\* Deși aici se referă la [simptome COVID-19](https://www.who.int/health-topics/coronavirus#tab=tab_3), se poate aplica și altor boli infecțioase.
 
 # Resurse
 

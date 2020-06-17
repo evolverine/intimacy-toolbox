@@ -14,11 +14,11 @@ lang: es
 # Porque reconozco que ...
 
 
-*   <a href="https://youtu.be/X0mHf3oSUdU" target="_blank">Estoy profundamente conectada con gente que no conozco</a>. Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,
+*   [**Estoy profundamente conectada con gente que no conozco.**](https://youtu.be/X0mHf3oSUdU). Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,
 
 *   **Mis elecciones sobre cómo conectar con otros afectan a las vidas de todos los que están cerca de mí**. <span class="spoiler">Por ejemplo, si decido abrazar a un montón de gente, algunos de mis amigos podrían acabar siendo percibidos como personas de más riesgo por sus propios amigos.</span>
     
-*   **Mi conocimiento no es perfecto**, y <a href="https://www.wikiwand.com/es/Efecto_Dunning-Kruger" target="_blank">puedo tender a exagerarlo</a>  
+*   **Mi conocimiento no es perfecto**, y [puedo tender a exagerarlo](https://www.wikiwand.com/es/Efecto_Dunning-Kruger)  
 
 *   Nuestro **conocimiento colectivo sobre el COVID-19 está evolucionando rápidamente**
 
@@ -75,7 +75,7 @@ lang: es
 *   **prevenir el sufrimiento** especialmente de aquellos que tienen mayor riesgo de diversas privaciones.
 
 
-\* Aunque todo esto se refiere a <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm" target="_blank">los síntomas del COVID-19</a>, puede aplicarse también a otras enfermedades infecciosas.
+\* Aunque todo esto se refiere a [los síntomas del COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm), puede aplicarse también a otras enfermedades infecciosas.
 
 # Recursos
 

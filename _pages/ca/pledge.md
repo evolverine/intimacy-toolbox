@@ -14,11 +14,11 @@ lang: ca
 # Reconeixent que ...
 
 
-*   <a href="https://youtu.be/X0mHf3oSUdU" target="_blank">Estic profundament connectat amb gent que no conec.</a> Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,
+*   [**Estic profundament connectat amb gent que no conec.**](https://youtu.be/X0mHf3oSUdU) Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,
 
 * **La manera en què escollo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, si decideixo abraçar molta gent, algunes de les meves amigues podrien acabar percebudes com a riscos majors pels seus propis amics.</span>
     
-* **Els meus coneixements no són perfectes** i <a href="https://www.wikiwand.com/ca/Efecte_Dunning-Kruger" target="_blank">és probable que'ls exageri</a>
+* **Els meus coneixements no són perfectes** i [és probable que'ls exageri](https://www.wikiwand.com/ca/Efecte_Dunning-Kruger)
 
 * **El nostre coneixement col·lectiu sobre COVID-19 està evolucionant ràpidament**
 
@@ -74,7 +74,7 @@ lang: ca
 * **prevenir el patiment** especialment per a aquelles que corren un risc més elevat de diverses privacions
 
 
-\* Tot i que aquí es refereix a <a href="https://www.who.int/health-topics/coronavirus#tab=tab_3" target="_blank">símptomes COVID-19</a>, també es pot aplicar a altres malalties infeccioses.
+\* Tot i que aquí es refereix a [símptomes COVID-19](https://www.who.int/health-topics/coronavirus#tab=tab_3), també es pot aplicar a altres malalties infeccioses.
 
 # Recursos
 
