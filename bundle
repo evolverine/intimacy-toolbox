@@ -1,2 +1,2 @@
 clear
-bundle exec jekyll serve --incremental
+JEKYLL_ENV=production bundle exec jekyll build
