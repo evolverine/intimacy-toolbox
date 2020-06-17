@@ -18,7 +18,7 @@ lang: ca
 
 * **La manera en què escollo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, si decideixo abraçar molta gent, algunes de les meves amigues podrien acabar percebudes com a riscos majors pels seus propis amics.</span>
     
-* **Els meus coneixements no són perfectes** i [és probable que'ls exageri](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+* **Els meus coneixements no són perfectes** i [és probable que'ls exageri](https://www.wikiwand.com/ca/Efecte_Dunning-Kruger)
 
 * **El nostre coneixement col·lectiu sobre COVID-19 està evolucionant ràpidament**
 
