@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "https://evolverine.github.io/undistance/get-involved",
     "title": "Get involved!",
-    "body": "Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción How you can help   By suggesting what you think can be improved, regarding both content and structure.     By suggesting links (to articles, Wikipedia pages, news items, etc. ) that illustrate and go deeper into the points made in the pledge and elsewhere.     By offering your help with translating the site in a language you are fluent in.     Through other ways that we can’t anticipate 🙂️  Many thanks for your feedback! "
+    "body": "Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). ¡Contribuye a su traducción! How you can help   By suggesting what you think can be improved, regarding both content and structure.     By suggesting links (to articles, Wikipedia pages, news items, etc. ) that illustrate and go deeper into the points made in the pledge and elsewhere.     By offering your help with translating the site in a language you are fluent in.     Through other ways that we can’t anticipate 🙂️  Many thanks for your feedback! "
     }, {
     "id": 6,
     "url": "https://evolverine.github.io/undistance/pledge",
