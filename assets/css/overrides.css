@@ -26,10 +26,14 @@ a:not([href*='evolverine.github.io']):not([href^='#']):not([href^='/']):after {
 	padding-left:15px;
 }
 
+.langs-container li {
+	padding-bottom: 6px;
+}
+
 @media (max-width: 600px) {
 	.langs-container ul {
 		list-style:none;
-		padding-left:5px;
+		padding-left:4px;
 	}
 
 	.nav-icon {
@@ -40,4 +44,14 @@ a:not([href*='evolverine.github.io']):not([href^='#']):not([href^='/']):after {
 	.container {
         padding-left:35px;
     }
+
+    .sidebar {
+	    position: fixed;
+	    height: 270px;
+	    width: 54px;
+	}
+
+	#menu ul {
+		padding-left: 70px;
+	}
 }
