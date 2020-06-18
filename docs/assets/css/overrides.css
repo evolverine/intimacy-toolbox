@@ -46,7 +46,7 @@ a:not([href*='evolverine.github.io']):not([href^='#']):not([href^='/']):after {
     }
 
     .sidebar {
-	    position: fixed;
+	    position: absolute;
 	    height: 270px;
 	    width: 54px;
 	}
