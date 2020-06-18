@@ -6,7 +6,7 @@ comments: false
 lang: es
 ---
 
-<span class="mark">Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). <a class="btn btn-primary" href="https://github.com/evolverine/undistance/issues/2">¡Contribuye a su traducción</a></span>
+<span class="mark">Esta página está en proceso de traducción, desde su versión en inglés (que puedes leer haciendo clic en el enlace „en” del menú de la izquierda). <a class="btn btn-primary" href="https://github.com/evolverine/undistance/issues/2">¡Contribuye a su traducción!</a></span>
 
 # How you can help  
 

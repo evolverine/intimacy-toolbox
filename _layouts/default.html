@@ -13,7 +13,7 @@
     <link href="{{ '/assets/css/theme.css' | relative_url }}" rel="stylesheet">
     <link href="{{ '/assets/css/overrides.css' | relative_url }}" rel="stylesheet">
     <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
-    }
+    
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -42,17 +42,12 @@ ga('send', 'pageview');
 <!-- Begin Sidebar Navigation
 ================================================== -->
 
-<div class="sidebar">
-    <div class="langs-container">
-        <ul>
-        {% for tongue in site.languages %}
-            <li><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}">{{ tongue }}</a></li>
-        {% endfor %}
-        </ul>
-    </div>
-</div>   
+<div class="sidebar"></div>   
 <div class="nav-icon">
     <div class="hamburger-bar"></div>
+    <div class="langs-container">
+        <ul>{% for tongue in site.languages %}<li><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}">{{ tongue }}</a></li>{% endfor %}</ul>
+    </div>
 </div>
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">

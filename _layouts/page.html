@@ -4,7 +4,9 @@ layout: default
 
 <div class="page-single">
     <div class="entry-header">       
+    	{% if page.title %}
         <h1 class="posttitle">{{ page.title }}</h1>        
+        {% endif %}
         <!-- Last updated -->
 		{% if page.date_modified %}
 		<div class="small">
