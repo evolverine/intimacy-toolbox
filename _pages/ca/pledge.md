@@ -14,9 +14,9 @@ lang: ca
 # Reconeixent que ...
 
 
-*   [**Estic profundament connectat amb gent que no conec.**](https://youtu.be/X0mHf3oSUdU) Per tant, els meus comportaments afecten a les amb qui no tinc cap mena de connexió. A més a més,
+*   [**Estic profundament connectat amb gent que no conec.**](https://youtu.be/X0mHf3oSUdU) Per tant, els meus comportaments afecten a persones amb qui no tinc cap mena de connexió. A més a més,
 
-* **La manera en què escollo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, si decideixo abraçar molta gent, algunes de les meves amigues podrien acabar percebudes com a riscos majors pels seus propis amics.</span>
+* **La manera en què escullo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, si decideixo abraçar molta gent, algunes de les meves amigues podrien acabar percebudes com a riscos majors pels seus propis amics.</span>
     
 * **Els meus coneixements no són perfectes** i [és probable que'ls exageri](https://www.wikiwand.com/ca/Efecte_Dunning-Kruger)
 
@@ -59,7 +59,7 @@ lang: ca
 
 * **fent proves, quan sigui possible i rellevant**, (si estic en un àmbit de risc elevat, per exemple, a causa del meu treball; o quan apareguin símptomes rellevants), i
 
-* **comunicant als meus contactes recents i futurs quan desenvolupi símptomes o surt un test positiu\***
+* **comunicant als meus contactes recents i futurs quan desenvolupi símptomes o surti un test positiu\***
 
 * **comunicant als meus contactes recents i futurs quan algú amb qui he estat en contacte ha desenvolupat símptomes o ha actuat de manera arriscada**<span class="spoiler">, alhora intentant respectar les necessitats de confidencialitat de tothom implicat.</span>
 
