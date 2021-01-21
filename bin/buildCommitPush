@@ -1,4 +1,4 @@
-$(dirname $0)/bundle
+$(dirname $0)/build
 git add docs/
 git commit -m "generated website data with latest changes"
 git push
