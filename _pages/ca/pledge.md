@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Promesa a-distanciament v0.6
-description: Reconeixent que ...
+title: Promesa a-distanciament v0.7
+description: Un compromís amb els valors que poden ajudar-nos a seguir gaudint de la intimitat en un món pandèmic, sense deixar ningú enrere.
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
-date_modified: 2020-06-15
+date_modified: 2021-01-21
 lang: ca
 ---
 
@@ -16,7 +16,7 @@ lang: ca
 
 *   [**Estic profundament connectat amb gent que no conec.**](https://youtu.be/X0mHf3oSUdU) Per tant, els meus comportaments afecten a persones amb qui no tinc cap mena de connexió. A més a més,
 
-* **La manera en què escullo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, si decideixo abraçar molta gent, algunes de les meves amigues podrien acabar percebudes com a riscos majors pels seus propis amics.</span>
+* **La manera en què escullo connectar amb la resta afecta la vida de tothom que tinc al voltant**. <span class="spoiler">Per exemple, les persones a les que decideixo abraçar poden acabar sent percebudes com de major risc per les seves pròpies amigues.</span>
     
 * **Els meus coneixements no són perfectes** i [és probable que'ls exageri](https://www.wikiwand.com/ca/Efecte_Dunning-Kruger)
 
@@ -24,22 +24,21 @@ lang: ca
 
 * **La situació ens afecta de maneres diferents** i en graus diferents
 
-* **Desigualtats i opressions preexistents**, segons línies de raça, ètnia, gènere, discapacitat, sexualitat, educació, sexe, edat, riquesa, religió, conviccions polítiques o ètiques, etc. **podrien ser augmentades i agreujades per les crisis que estem travessant**
+* **Desigualtats, opressions i explotacions preexistents**, segons línies de raça, ètnia, gènere, discapacitat, sexualitat, educació, sexe, edat, riquesa, religió, conviccions polítiques o ètiques, etc. segurament **podrien ser augmentades i agreujades** per les crisis que estem travessant
 
 * **Pot ser fàcil excloure a les en més risc** <span class = "spoiler">tret que ho impedim activament. Per exemple, aquells que pateixen actualment COVID-19 podrien també patir múltiples limitacions i dificultats, així com aquelles amb un risc percebut més alt, que podrien veure's una part del seu suport social allunyant-se d’elles.</span>
 
-* **Les percepcions de risc són importants**. <span class = "spoiler">Tot i que és clarament útil basar la meva percepció de risc en els millors coneixements als quals puc tenir accés (i en el meu context particular), mai no puc conèixer tots els factors i valors que entren en les percepcions de risc d'altres.</span>
+* **Les percepcions de risc són importants**. <span class = "spoiler">Tot i que és clarament útil basar la nostra percepció de risc en els millors coneixements als quals podem tenir accés (i en el nostre context particular), mai no podrem conèixer tots els factors i valors que entren en les percepcions de risc d'altres.</span>
 
 # ... vull fer el millor possible per a la resta ...
 
-
-* **aprenent** — i actualitzant periòdicament els meus coneixements — **sobre COVID-19 i les mesures recomanades on visc**. <span class="spoiler">SARS-CoV-2: coses com el temps mitjà d'incubació, el nombre mitjà de dies que el virus es va trobar present en els cossos de la gent, símptomes, mitjans de transmissió, taxes probables de transmissió asimptomàtica, etc. Context local: les mesures de seguretat recomanades a casa, a la feina, per a socialitzar, etc.</span>
+* **aprenent** — i actualitzant periòdicament els meus coneixements — **sobre COVID-19 i les mesures recomanades on visc**, ja sigui d'amics i familiars, o de fonts primàries. <span class="spoiler">SARS-CoV-2: coses com el temps mitjà d'incubació, el nombre mitjà de dies que el virus es va trobar present en els cossos de la gent, símptomes, mitjans de transmissió, taxes probables de transmissió asimptomàtica, etc. Context local: les mesures de seguretat recomanades a casa, a la feina, per a socialitzar, etc.</span>
 
 * **responent amb agraïment** quan els altres m'informen de coses que no sabia i estant preparada a canviar d’opinió quan adquireixo un millor coneixement.
 
 * **ser obert i suau en les discussions** <span class="spoiler">sobre "el que saben els científics actualment", ja que sé que és una zona molt fluida; o sobre si les institucions pertinents han recomanat mesures "encertades". Reconec que això no és fàcil de constatar, fins i tot per a aquelles amb vastos coneixements i experiència.</span>
 
-* **revisant detingudament les fonts** del que passo a altres. <span class="spoiler">En particular, no difonent informació que no hagi rebut de fonts visibles i de confiança.</span>
+* **revisant detingudament les fonts** del que passo a altres. <span class="spoiler">En particular, no difonent informació que no hagi rebut de fonts de confiança.</span>
 
 * **decidint amb quines conductes socials em sento còmoda**, amb altres i d’altres, donades les meves necessitats, percepció de risc, ètica, etc. <span class="spoiler"> Pel que fa al tacte, reunions, mesures en el treball, etc. Preguntes com quina informació m'agradaria conèixer abans de connectar de vàries maneres, les meves necessitats de confidencialitat, etc.</span>
 
@@ -47,7 +46,7 @@ lang: ca
 
 * **preguntant sobre, i acceptant els límits d’altres persones**, i les seves opcions d’interacció, percepció del risc, etc. I, per descomptat, respectant-los el millor que pugui!
 
-* **no avergonyint o estigmatitzant** a la resta — i tampoc a mi mateix — per les nostres eleccions.
+* **no avergonyint o estigmatitzant** a la resta — i tampoc a mi mateix — per les nostres eleccions. <span class="spoiler">Per semblar massa prudent o temerari.</span>
 
 * **no pressionant** als altres — i tampoc a mi mateixa — a canviar.
 
@@ -57,8 +56,10 @@ lang: ca
 
 * **estant obert i honest amb el meu propi estat físic** i comportaments socials recents, quan i on és rellevant. En concret,
 
-* **fent proves, quan sigui possible i rellevant**, (si estic en un àmbit de risc elevat, per exemple, a causa del meu treball; o quan apareguin símptomes rellevants), i
+* **fent proves, quan sigui possible i rellevant**, <span class="spoiler">si estic en un àmbit de risc elevat, per exemple, a causa del meu treball; o quan apareguin símptomes rellevants</span>
 
+* **Vacunar-me** <span class="spoiler">contra COVID, però també contra altres infeccions, com ara la grip estacional.</span>
+*
 * **comunicant als meus contactes recents i futurs quan desenvolupi símptomes o surti un test positiu\***
 
 * **comunicant als meus contactes recents i futurs quan algú amb qui he estat en contacte ha desenvolupat símptomes o ha actuat de manera arriscada**<span class="spoiler">, alhora intentant respectar les necessitats de confidencialitat de tothom implicat.</span>
@@ -69,7 +70,7 @@ lang: ca
 
 * **evitar penediments** pel que fa a apropar-nos d'altres
 
-* **guanyar temps**, fins que es desenvolupin tractaments i vacunes i fins que les nostres societats tinguin una millor oportunitat d’adaptar-se a aquests canvis
+* **guanyar temps**, fins que es desenvolupin més tractaments i vacunes i fins que les nostres societats tinguin una millor oportunitat d’adaptar-se a aquests canvis
 
 * **prevenir el patiment** especialment per a aquelles que corren un risc més elevat de diverses privacions
 
