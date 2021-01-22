@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Promesa a-distanciamiento v0.6
-description: Porque reconozco que ...
+title: Promesa a-distanciamiento v0.7
+description: Un compromiso con los valores que pueden ayudarnos a seguir disfrutando de la intimidad en un mundo pandémico, sin dejar a nadie atrás.
 permalink: /pledge
 comments: false
 image: assets/images/cobweb.jpg
-date_modified: 2020-06-15
+date_modified: 2021-01-21
 lang: es
 ---
 
@@ -16,7 +16,7 @@ lang: es
 
 *   [**Estoy profundamente conectada con gente que no conozco.**](https://youtu.be/X0mHf3oSUdU). Por lo tanto, mis comportamientos afectan a las con quien no tengo ningún tipo de conexión. Además,
 
-*   **Mis elecciones sobre cómo conectar con otros afectan a las vidas de todos los que están cerca de mí**. <span class="spoiler">Por ejemplo, si decido abrazar a un montón de gente, algunos de mis amigos podrían acabar siendo percibidos como personas de más riesgo por sus propios amigos.</span>
+*   **Mis elecciones sobre cómo conectar con otros afectan a las vidas de todos los que están cerca de mí**. <span class="spoiler">Por ejemplo, las personas a las que decido abrazar pueden terminar siendo percibidas como de mayor riesgo por sus propias amigas.</span>
     
 *   **Mi conocimiento no es perfecto**, y [puedo tender a exagerarlo](https://www.wikiwand.com/es/Efecto_Dunning-Kruger)  
 
@@ -24,23 +24,23 @@ lang: es
 
 *   **Estamos afectados por la situación de diferentes formas**, y en diferentes grados
 
-*   **Las desigualdades y opresiones preexistentes**, en cuanto a raza, etnia, género, discapacidad, sexualidad, educación, sexo, edad, salud, religión, convicciones éticas o políticas, etc. **podrían sumarse y magnificarse** a causa de las crisis que estamos atravesando.
+*   **Las desigualdades, opresiones y explotaciones preexistentes**, en cuanto a raza, etnia, género, discapacidad, sexualidad, educación, sexo, edad, salud, religión, convicciones éticas o políticas, etc. seguramente **podrían sumarse y magnificarse** a causa de las crisis que estamos atravesando.
 
-*   **Puede ser fácil excluir a aquellos que están más en riesgo,** <span class="spoiler">a no ser que lo prevengamos activamente. Por ejemplo, aquellos que actualmente están sufriendo el COVID-19, podrían tener que luchar con múltiples limitaciones y dificultades, así como aquellos con un riesgo más alto percibido, que podrían ver cómo una parte de su apoyo social se aleja de ellos.</span>
+*   **Puede ser fácil excluir a aquellos que están más en riesgo,** <span class="spoiler">a no ser que lo prevengamos activamente. Por ejemplo, aquellos que actualmente están sufriendo el COVID-19, podrían tener que luchar con múltiples limitaciones y dificultades, así como aquellos con un riesgo más alto percibido, que podrían ver cómo una parte de su apoyo social se aleja.</span>
 
-*   **Las percepciones del riesgo son importantes**. <span class="spoiler">Si bien es claramente útil basar mi percepción del riesgo en el mejor conocimiento al que pueda acceder (y en mi contexto particular), nunca podré conocer todos los factores y valores que afectan a las percepciones de riesgo de los demás.</span>
+*   **Las percepciones del riesgo son importantes**. <span class="spoiler">Si bien es claramente útil basar nuestra percepción del riesgo en el mejor conocimiento al que podamos acceder (y en nuestro contexto particular), nunca podrémos conocer todos los factores y valores que afectan a las percepciones de riesgo de las demás.</span>
     
 
 # ... Quiero hacer lo mejor para los demás ...
 
 
-*   **aprendiendo** — y actualizando regularmente mi conocimiento — **sobre el COVID-19 y las medidas recomendadas en el lugar donde vivo**. <span class="spoiler">SARS-CoV-2: cosas como tiempo medio de incubación, el número medio de días en que se ha encontrado el virus presente en el cuerpo de las personas, los síntomas, los medios de transmisión, las tasas probables de transmisión asintomática, etc. Mi contexto local: las medidas de seguridad recomendadas en casa, en el trabajo, en la vida social, etc.</span>
+*   **aprendiendo** — y actualizando regularmente mi conocimiento — **sobre el COVID-19 y las medidas recomendadas en el lugar donde vivo** ya sea de amigos y familiares, o de fuentes primarias. <span class="spoiler">SARS-CoV-2: cosas como tiempo medio de incubación, el número medio de días en que se ha encontrado el virus presente en el cuerpo de las personas, los síntomas, los medios de transmisión, las tasas probables de transmisión asintomática, etc. Mi contexto local: las medidas de seguridad recomendadas en casa, en el trabajo, en la vida social, etc.</span>
 
 *   **respondiendo con gratitud** cuando otros señalen información que no conozca, y estar abierta a cambiar de opinión cuando me encuentre con un mejor conocimiento.
 
 *   **siendo abierto y amable en los debates** <span class="spoiler">sobre "lo que los científicos saben actualmente", ya que sé que es un área muy fluida; o sobre si las instituciones pertinentes han recomendado medidas "suficientemente buenas". Reconozco que eso no es fácil de determinar, incluso para quienes tienen amplios conocimientos y experiencia.</span>
 
-*   **comprobando cuidadosamente las fuentes** de lo que paso a los demás. <span class="spoiler">En particular, no difundiendo información que no haya recibido de fuentes visibles y de confianza.</span>
+*   **comprobando cuidadosamente las fuentes** de lo que paso a los demás. <span class="spoiler">En particular, no difundiendo información que no haya recibido de fuentes de confianza.</span>
 
 *   **decidiendo qué comportamientos sociales me parecen razonables y aceptables** de y con los demás, dadas mis necesidades, la percepción del riesgo, la ética, etc. <span class="spoiler">En cuanto al contacto físico, reuniones, medidas en el trabajo, etc. Preguntas como qué información me gustaría tener antes de tener diversos comportamientos, mis propias necesidades de privacidad, etc.</span>
 
@@ -48,7 +48,7 @@ lang: es
 
 *   **preguntando y aceptando los límites de los demás, las elecciones de interacción, la percepción del riesgo**, etc. Y, por supuesto, ¡respetándolos de la mejor de mis habilidades!
 
-*   **no avergonzando o estigmatizando** ni a mí misma ni a las demás por sus elecciones.
+*   **no avergonzando o estigmatizando** ni a mí misma ni a las demás por sus elecciones. <span class="spoiler">Por parecer demasiado cauteloso o imprudente.</span>
 
 *   **no presionándome a mí misma ni a los demás** para cambiar.
 
@@ -58,7 +58,9 @@ lang: es
 
 *   **Siendo abierto y honesto sobre mi propio estado físico** y comportamientos sociales recientes, cuando sea relevante. En particular,  
 
-*   **Haciéndome pruebas, cuando sea posible y relevante**, (si corro un alto riesgo, digamos, a causa de mi trabajo, o cuando aparezcan síntomas relevantes), y
+*   **Haciéndome pruebas, cuando sea posible y relevante**, <span class="spoiler">(si corro un alto riesgo, digamos, a causa de mi trabajo, o cuando aparezcan síntomas relevantes)</span>
+
+* **Vacunarme** <span class="spoiler">contra COVID, pero también contra otras infecciones, como la gripe estacional.</span>
 
 *   **Avisando a mis contactos recientes y futuros cuando desarrolle síntomas o las pruebas den resultados positivos\***
 
@@ -70,7 +72,7 @@ lang: es
 
 *   **evitar arrepentimientos** en lo que se refiere a estar cerca de los demás
 
-*   **ganar tiempo**, hasta que se desarrollen tratamientos y vacunas, y hasta que nuestras sociedades tengan una oportunidad mejor para adaptarse a estos cambios
+*   **ganar tiempo**, hasta que se desarrollen más tratamientos y vacunas, y hasta que nuestras sociedades tengan una oportunidad mejor para adaptarse a estos cambios
 
 *   **prevenir el sufrimiento** especialmente de aquellos que tienen mayor riesgo de diversas privaciones.
 
